@@ -70,20 +70,20 @@ print(df.head())
 | William.market   | available | $55.98    | —             | 74             | 31     | 7      | namecheap                                           |
 | daily.market     | resell    | —         | —             | 74             | 38     | 5      | Porkbun LLC                                         |
 | Tools.market     | premium   | $560      | $560          | 56             | 40     | 5      | namecheap                                           |
-| forms.market     | available | $55.98    | —             | 54             | 28     | 5      | namecheap                                           |
+| gods.market      | available | $55.98    | —             | 72             | 29     | 4      | namecheap                                           |
 | marvel.market    | resell    | —         | —             | 72             | 34     | 6      | Xiamen ChinaSource Internet Service Co., Ltd        |
 | homes.market     | premium   | $500      | —             | 86             | 34     | 5      | name.com                                            |
-| gods.market      | available | $55.98    | —             | 72             | 27     | 4      | namecheap                                           |
+| forms.market     | available | $55.98    | —             | 54             | 28     | 5      | namecheap                                           |
 | popup.market     | resell    | —         | —             | 84             | 28     | 6      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| etc.market       | premium   | $123.75   | —             | 58             | 34     | 3      | name.com                                            |
+| Cats.market      | premium   | $138.60   | $138.60       | 59             | 33     | 4      | namecheap                                           |
 | pops.market      | available | $44.49    | $44.49        | 74             | 24     | 4      | namesilo                                            |
 | guns.market      | resell    | —         | —             | 68             | 22     | 4      | Name.com, Inc.                                      |
-| Cats.market      | premium   | $138.60   | $138.60       | 59             | 33     | 4      | namecheap                                           |
+| payments.market  | premium   | $250      | —             | 58             | 33     | 8      | name.com                                            |
 | echoes.market    | available | $44.49    | $44.49        | 56             | 24     | 6      | namesilo                                            |
 | motors.market    | resell    | —         | —             | 50             | 18     | 6      | DNSPod, Inc.                                        |
-| payments.market  | premium   | $250      | —             | 58             | 33     | 8      | name.com                                            |
+| etc.market       | premium   | $123.75   | —             | 58             | 32     | 3      | name.com                                            |
 | superhero.market | available | $55.98    | —             | 84             | 23     | 9      | namecheap                                           |
-| partners.market  | premium   | $3,125    | —             | 61             | 32     | 8      | name.com                                            |
+| partners.market  | premium   | $3,125    | —             | 61             | 31     | 8      | name.com                                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 

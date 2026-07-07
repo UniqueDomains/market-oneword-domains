@@ -1,10 +1,10 @@
-# Available .MARKET One-Word Domains (11,620)
+# Available .MARKET One-Word Domains (11,621)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C620%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-11%2C621%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .market one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **11,620 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **11,621 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 11,620 domains · **Median ask:** $86.53 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 11,621 domains · **Median ask:** $95.52 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/market`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/market`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .MARKET one-word domai
 
 ### Files
 
-- `market.csv` — public CSV extract (1,000 rows)
-- `market.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `market.csv`, public CSV extract (1,000 rows)
+- `market.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| Ryan.market      | available | $55.98    | —             | 60             | 44     | 4      | namecheap                                           |
-| coins.market     | resell    | —         | —             | 56             | 41     | 5      | Name.com, Inc.                                      |
-| makers.market    | premium   | $1,875    | —             | 62             | 67     | 6      | name.com                                            |
-| William.market   | available | $55.98    | —             | 74             | 31     | 7      | namecheap                                           |
-| daily.market     | resell    | —         | —             | 74             | 38     | 5      | Porkbun LLC                                         |
-| Tools.market     | premium   | $560      | $560          | 56             | 40     | 5      | namecheap                                           |
-| gods.market      | available | $55.98    | —             | 72             | 29     | 4      | namecheap                                           |
-| marvel.market    | resell    | —         | —             | 72             | 34     | 6      | Xiamen ChinaSource Internet Service Co., Ltd        |
-| homes.market     | premium   | $500      | —             | 86             | 34     | 5      | name.com                                            |
-| forms.market     | available | $55.98    | —             | 54             | 28     | 5      | namecheap                                           |
-| popup.market     | resell    | —         | —             | 84             | 28     | 6      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| Cats.market      | premium   | $138.60   | $138.60       | 59             | 33     | 4      | namecheap                                           |
-| pops.market      | available | $44.49    | $44.49        | 74             | 24     | 4      | namesilo                                            |
-| guns.market      | resell    | —         | —             | 68             | 22     | 4      | Name.com, Inc.                                      |
-| payments.market  | premium   | $250      | —             | 58             | 33     | 8      | name.com                                            |
-| echoes.market    | available | $44.49    | $44.49        | 56             | 24     | 6      | namesilo                                            |
-| motors.market    | resell    | —         | —             | 50             | 18     | 6      | DNSPod, Inc.                                        |
-| etc.market       | premium   | $123.75   | —             | 58             | 32     | 3      | name.com                                            |
-| superhero.market | available | $55.98    | —             | 84             | 23     | 9      | namecheap                                           |
-| partners.market  | premium   | $3,125    | —             | 61             | 31     | 8      | name.com                                            |
+| domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
+| ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
+| cut.market  | available | $44.49    | $44.49        | high           | low    | 3      | namesilo                                            |
+| out.market  | resell    | —         | —             | high           | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd        |
+| ana.market  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                            |
+| die.market  | available | $55.98    | —             | medium         | low    | 3      | namecheap                                           |
+| bags.market | resell    | —         | —             | medium         | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| arm.market  | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                                            |
+| dry.market  | available | $55.98    | —             | high           | low    | 3      | namecheap                                           |
+| drop.market | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                        |
+| bug.market  | premium   | $500      | —             | high           | low    | 3      | name.com                                            |
+| hug.market  | available | $44.49    | $44.49        | high           | low    | 3      | namesilo                                            |
+| flip.market | resell    | —         | —             | high           | medium | 4      | NameSilo, LLC                                       |
+| DIY.market  | premium   | $500      | —             | high           | low    | 3      | name.com                                            |
+| icu.market  | available | $44.49    | $44.49        | high           | low    | 3      | namesilo                                            |
+| foto.market | resell    | —         | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
+| for.market  | premium   | $242      | $242          | high           | medium | 3      | namesilo                                            |
+| nun.market  | available | $44.49    | $44.49        | medium         | low    | 3      | namesilo                                            |
+| made.market | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                        |
+| hat.market  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                            |
+| xvi.market  | available | $44.49    | $44.49        | medium         | low    | 3      | namesilo                                            |
+| mono.market | resell    | —         | —             | high           | low    | 4      | NameCheap, Inc.                                     |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 11,620 live domains                        |
+| 1,000-row public sample | 11,621 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of .market domains. It mixes short, flexible names such as pack.market and triple.market with more descriptive terms like footballmatch.market and receipt.market. For founders, the main question is whether the word stays memorable and credible with the .market extension. For investors, the key test is whether the keyword has clear commercial relevance at a realistic ask. The median ask here is $86.49, which keeps many names in low-cost territory, but quality still depends on brevity, clarity, resale usefulness, and whether the full domain reads naturally as a brand or category term.
+These .market domain names run from single words to short compound phrases—names like fitinto, hangon, jetblack, and bonappetit—built for retail, food, lifestyle, and marketplace-style branding. The .market extension itself signals commerce and marketplace intent, making it a practical fit when a matching .com is unavailable. With a median asking price near $95.52 across 11,621 names, this set offers a wide range of price points and naming styles to compare side by side.
 
-- Prefer words that read cleanly with .market
-- Short names usually carry better recall and resale appeal
-- Use the $86.49 median ask as a pricing baseline
-- Avoid terms that may create trademark confusion
+- Median ask near $95.52 across 11,621 .market domain names
+- One-word and short compound names for retail and lifestyle brands
+- Marketplace-themed naming style tied to the .market extension
+- Updated daily to reflect the current .market domain landscape
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MARKET One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MARKET One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

@@ -247,7 +247,7 @@ c5a29f06-6fad-4294-a683-a9159aed59d5,suntea.market,available,55.98,,high,low,7,n
 efa2301a-9b42-41ba-9e4e-4b136c833784,amative.market,available,44.49,44.49,low,low,7,namesilo,,
 9566a843-9d56-4cd4-ac43-b53cba9e40ec,NewOrleans.market,premium,1107,1107,medium,low,11,namesilo,,
 11da5ee2-e86e-411d-b401-d99adbb6e6cf,dyspeptic.market,available,44.49,44.49,low,low,9,namesilo,,
-41e3fa3b-de27-40ac-8a7b-41144561cb82,cooking.market,resell,,,high,low,7,"Chengdu West Dimension Digital Technology Co., Ltd.",11/01/2024 17:15,11/01/2027 17:15
+41e3fa3b-de27-40ac-8a7b-41144561cb82,cooking.market,resell,,,medium,low,7,"Chengdu West Dimension Digital Technology Co., Ltd.",11/01/2024 17:15,11/01/2027 17:15
 12ca0a91-7321-4189-94b1-f96d1beac234,triple.market,available,44.49,44.49,high,low,6,namesilo,,
 00fb1710-dc79-4c06-ae30-d8db433d0d83,standup.market,available,44.49,44.49,medium,low,8,namesilo,,
 4cb98936-76ff-4d6b-a139-65b7dea9efd6,thewhile.market,available,44.49,44.49,low,low,9,namesilo,,
@@ -738,7 +738,7 @@ e3d54fa9-f6d0-45d9-844f-1b9d4e9d184a,attachable.market,available,44.49,44.49,low
 cd62fc51-301d-4fd6-a3b8-413be6087d7d,homoecious.market,available,44.49,44.49,low,low,10,namesilo,,
 09ebaf21-d45d-4ce6-8df1-14129e75a98e,ailing.market,available,46.98,55.98,low,low,6,namecheap,,
 6237fbf0-784d-4c03-b490-9d2376d5cf35,appreciative.market,available,55.98,,high,low,12,namecheap,,
-824c176b-7f4e-427e-bc0b-a4b85e9cd9c1,nature.market,resell,,,high,low,6,"Spaceship, Inc.",06/03/2026 22:11,06/03/2027 22:11
+824c176b-7f4e-427e-bc0b-a4b85e9cd9c1,nature.market,resell,,,medium,low,6,"Spaceship, Inc.",06/03/2026 22:11,06/03/2027 22:11
 2dd6618a-0363-4102-871c-58a7bf470992,appalling.market,available,44.49,44.49,low,low,9,namesilo,,
 a0457366-d2bf-472c-aaeb-863d3e1a9993,intheabstract.market,available,44.49,44.49,medium,low,15,namesilo,,
 276ed6ed-8ece-432c-ad20-fcca0075d138,forget.market,available,44.49,44.49,medium,low,6,namesilo,,
@@ -768,7 +768,7 @@ fe2f4e40-e3e5-4953-8dd1-79e0ae0ad04d,ones.market,premium,118.8,118.8,high,low,4,
 a78d61ae-e522-46e5-bf25-5a25ce2cf6fc,oliveoil.market,premium,500,,medium,low,9,name.com,,
 78523637-ceba-485e-8d20-c21fbb62333e,galaxy.market,premium,854,854,high,medium,6,namesilo,,
 157fc048-d04a-4b62-bdc6-2f04ed71ab8f,wounded.market,available,44.49,44.49,medium,low,7,namesilo,,
-43242e5f-60cc-4cc6-bf2a-8a9121b340c7,display.market,premium,500,,high,low,7,name.com,,
+43242e5f-60cc-4cc6-bf2a-8a9121b340c7,display.market,premium,512,512,medium,low,7,namesilo,,
 7652ec23-fd84-4f11-9a78-f4c62ca56d7c,written.market,available,44.49,44.49,high,low,7,namesilo,,
 aa5f3878-d461-43c9-8a9a-6ff0d6bca935,Mastercard.market,available,,,high,low,10,,,
 d49d8767-ba61-4fc9-8f99-351b92f8fdb5,aggregate.market,available,44.49,44.49,low,low,9,namesilo,,
@@ -845,7 +845,7 @@ b7f0058e-1bfc-4f95-9ba2-c7e0345baf31,delightful.market,available,44.49,44.49,med
 d2aa8fce-31bd-44f5-9adf-45503bb1cdd4,coffeebreak.market,available,44.49,44.49,high,low,12,namesilo,,
 08484887-45b8-4b7b-918c-956dfb734d47,corruption.market,available,44.49,44.49,medium,low,10,namesilo,,
 1a4f93bb-5f8d-46bb-bc23-dd2b164512da,clxx.market,available,,,medium,low,4,,,
-5883d31b-9444-4bf6-b398-abe002b7ac63,stove.market,premium,242,242,low,low,5,namesilo,,
+5883d31b-9444-4bf6-b398-abe002b7ac63,stove.market,premium,242,242,medium,low,5,namesilo,,
 64f18e8a-f6fe-42c7-90b0-b6f48360b74c,atthedropofahat.market,available,44.49,44.49,high,low,20,namesilo,,
 752a9a0f-e11d-49a8-947e-bdcbfb2a8de1,bearish.market,premium,500,500,low,low,7,name.com,,
 afc00f58-5341-42fc-866c-0f98c7c6b14c,Californian.market,premium,500,,high,low,11,name.com,,

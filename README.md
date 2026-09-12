@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .market one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 20,943 domains · **Median ask:** $70.86 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-09-11
+**Last updated:** 2026-09-12
 **Canonical page:** `https://unique.domains/domains/tld/market`
 **Best for:** founders, investors, studios
 
@@ -67,7 +67,6 @@ print(df.head())
 | out.market    | resell    | —         | —             | high           | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd        |
 | beauty.market | available | —         | —             | high           | low    | 6      | —                                                   |
 | cut.market    | available | $44.49    | $44.49        | high           | low    | 3      | namesilo                                            |
-| count.market  | available | $44.49    | $44.49        | high           | low    | 5      | namesilo                                            |
 | ana.market    | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                            |
 | die.market    | available | $55.98    | —             | medium         | low    | 3      | namecheap                                           |
 | bags.market   | resell    | —         | —             | medium         | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
@@ -84,6 +83,7 @@ print(df.head())
 | nun.market    | available | $44.49    | $44.49        | medium         | low    | 3      | namesilo                                            |
 | made.market   | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                        |
 | hat.market    | premium   | $118.80   | $118.80       | medium         | low    | 3      | namesilo                                            |
+| xvi.market    | available | $44.49    | $44.49        | medium         | low    | 3      | namesilo                                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MARKET One-Word Domains*. Version 2026-09-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MARKET One-Word Domains*. Version 2026-09-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

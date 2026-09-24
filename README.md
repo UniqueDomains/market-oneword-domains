@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .market one-word domains fr
 
 **Public extract:** 1,000 rows · **Live catalog:** 30,139 domains · **Median ask:** $65.14 · **High-demand under $2,500:** 4
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/market`
 **Best for:** founders, investors, studios
 
@@ -64,14 +64,14 @@ print(df.head())
 
 | domain      | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                           |
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
-| cut.market  | available | $44.49    | $44.49        | high           | low    | 3      | namesilo                                            |
+| cut.market  | available | $44.49    | $44.49        | low            | low    | 3      | namesilo                                            |
 | out.market  | resell    | —         | —             | medium         | low    | 3      | Xiamen ChinaSource Internet Service Co., Ltd        |
 | ana.market  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                            |
 | die.market  | available | $55.98    | —             | medium         | low    | 3      | namecheap                                           |
 | bags.market | resell    | —         | —             | medium         | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
 | arm.market  | premium   | $118.80   | $118.80       | high           | medium | 3      | namesilo                                            |
 | dry.market  | available | $55.98    | —             | high           | low    | 3      | namecheap                                           |
-| drop.market | resell    | —         | —             | high           | low    | 4      | DNSPod, Inc.                                        |
+| drop.market | resell    | —         | —             | low            | low    | 4      | DNSPod, Inc.                                        |
 | bug.market  | premium   | $500      | —             | high           | low    | 3      | name.com                                            |
 | hug.market  | available | $44.49    | $44.49        | high           | low    | 3      | namesilo                                            |
 | flip.market | resell    | —         | —             | high           | medium | 4      | NameSilo, LLC                                       |
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .MARKET One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .MARKET One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

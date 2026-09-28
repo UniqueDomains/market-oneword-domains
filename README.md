@@ -1,10 +1,10 @@
-# Available .MARKET One-Word Domains (22,089)
+# Available .MARKET One-Word Domains (22,619)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C089%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-22%2C619%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 Daily-updated public extract of available and resale .market one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **22,089 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **22,619 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 22,089 domains · **Median ask:** $77.27 · **High-demand under $2,500:** 7
+**Public extract:** 1,000 rows · **Live catalog:** 22,619 domains · **Median ask:** $76.99 · **High-demand under $2,500:** 7
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/tld/market`
@@ -66,22 +66,22 @@ print(df.head())
 | ----------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------- |
 | bns.market  | available | $44.49    | $44.49        | high           | low    | 3      | namesilo                                            |
 | bot.market  | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                    |
-| ape.market  | premium   | $500      | $500          | high           | low    | 3      | name.com                                            |
+| acm.market  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                            |
 | gyp.market  | available | $44.49    | $44.49        | medium         | low    | 3      | namesilo                                            |
 | bro.market  | resell    | —         | —             | high           | low    | 3      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| aug.market  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                            |
+| ape.market  | premium   | $500      | $500          | high           | low    | 3      | name.com                                            |
 | kfc.market  | available | $46.98    | $55.98        | high           | low    | 3      | namecheap                                           |
 | did.market  | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                    |
-| ben.market  | premium   | $500      | —             | high           | medium | 3      | name.com                                            |
+| aug.market  | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                            |
 | lap.market  | available | $75.99    | $75.99        | high           | low    | 3      | godaddy                                             |
 | dent.market | resell    | —         | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
-| bio.market  | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo                                            |
+| ben.market  | premium   | $500      | —             | high           | medium | 3      | name.com                                            |
 | shy.market  | available | $44.49    | $44.49        | high           | low    | 3      | namesilo                                            |
 | face.market | resell    | —         | —             | high           | low    | 4      | Spaceship, Inc.                                     |
-| emi.market  | premium   | $512      | $512          | high           | low    | 3      | namesilo                                            |
-| spf.market  | available | $46.98    | $55.98        | high           | low    | 3      | namecheap                                           |
+| bio.market  | premium   | $1,107    | $1,107        | high           | medium | 3      | namesilo                                            |
+| spf.market  | available | $44.49    | $44.49        | high           | low    | 3      | namesilo                                            |
 | flip.market | resell    | —         | —             | high           | medium | 4      | NameSilo, LLC                                       |
-| fig.market  | premium   | $500      | —             | high           | low    | 3      | name.com                                            |
+| emi.market  | premium   | $512      | $512          | high           | low    | 3      | namesilo                                            |
 | wry.market  | available | $44.49    | $44.49        | high           | low    | 3      | namesilo                                            |
 | grub.market | resell    | —         | —             | high           | low    | 4      | Chengdu West Dimension Digital Technology Co., Ltd. |
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 22,089 live domains                        |
+| 1,000-row public sample | 22,619 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 7 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |

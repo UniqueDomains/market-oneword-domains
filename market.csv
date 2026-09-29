@@ -1,6 +1,7 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 ce480e00-3608-48f3-9c29-542d42127c4e,shots.market,available,46.98,55.98,medium,low,5,namecheap,,,20/09/2026 00:10
 e94f6562-ac09-45bd-9ea5-d05e10a8bd9d,myspace.market,available,,,high,medium,7,,,,
+114f0ffa-bc1e-433d-8491-7396073b83be,easiest.market,available,34.2,34.2,medium,low,7,cloudflare,,,28/09/2026 23:51
 16145913-158e-413e-8799-75b778c24240,ardeb.market,available,46.98,55.98,medium,low,5,namecheap,,,20/09/2026 03:06
 d0c83bf3-e894-40f2-a2d0-6c63044c77ec,cola.market,available,46.98,55.98,high,low,4,namecheap,,,24/09/2026 16:17
 fe43df57-1687-44db-80c4-82a3e8deb24d,heptad.market,available,44.49,44.49,medium,low,6,namesilo,,,
@@ -12,6 +13,7 @@ e8d09165-9b7e-40d2-a1d8-b4873470b26c,disraeli.market,available,44.49,44.49,mediu
 68b2fe2c-938b-4509-89cc-3a4926c780ca,surveys.market,premium,242,242,medium,low,7,namesilo,,,17/09/2026 07:59
 2b658fb6-211e-474a-9db9-f75af626f053,troll.market,available,44.49,44.49,high,low,5,namesilo,,,
 09d8af9a-2f7c-4803-9d57-149a40c1450b,comestible.market,available,44.49,44.49,medium,low,10,namesilo,,,12/08/2026 18:45
+7bfe0d54-05dd-48b1-a249-1fdab5fcb305,amiens.market,available,35.39,35.39,medium,low,6,spaceship,,,29/09/2026 04:12
 9e93375c-3aa9-44f6-bcfd-a36c63640352,psycho.market,available,44.49,44.49,high,low,6,namesilo,,,27/09/2026 07:59
 0a390901-a746-47f8-899b-204ea051c2fa,willy.market,available,44.49,44.49,medium,low,5,namesilo,,,27/09/2026 06:19
 f0ad9992-ac01-4af9-aa31-b4c3e746a6aa,combustive.market,available,44.49,44.49,low,low,10,namesilo,,,12/08/2026 18:42
@@ -34,6 +36,7 @@ a9dacddd-dae3-48c1-b2fb-8288315c7719,roma.market,premium,242,242,high,low,4,name
 0ad2eff5-408b-4700-acf8-ae9459fc4e9b,futurist.market,available,46.98,55.98,high,low,8,namecheap,,,18/08/2026 19:19
 06e3054b-cccf-44bd-8193-4b20588ff9ae,centimetre.market,available,44.49,44.49,medium,low,10,namesilo,,,24/09/2026 13:35
 1eef9721-be84-46c3-af08-6cc830d36c14,noisy.market,available,46.98,55.98,high,low,5,namecheap,,,03/09/2026 18:15
+9491c753-80d6-4a29-9f33-204d6bc5ca41,ata.market,premium,414.2,414.2,medium,low,3,spaceship,,,28/09/2026 11:37
 6b24820d-e23b-4e0a-8260-f00e359378ff,sudbury.market,available,44.49,44.49,medium,low,7,namesilo,,,28/09/2026 06:48
 ec569183-b037-43da-9de4-c785bbb107c1,pennies.market,available,44.49,44.49,medium,low,7,namesilo,,,
 ff2fa019-eb1d-46c6-985a-f6911da646fb,diverse.market,premium,500,500,high,low,7,name.com,,,14/08/2026 13:39
@@ -61,10 +64,12 @@ b7d94696-704e-4bef-b65d-89f3432a837b,pokey.market,available,44.49,44.49,medium,l
 4a5e23bf-2506-4384-ad9e-3935c6cf9d51,penumbral.market,available,44.49,44.49,medium,low,9,namesilo,,,08/09/2026 15:25
 ee72f52a-b210-4e48-afab-e776a3e80d68,corrode.market,available,46.98,55.98,medium,low,7,namecheap,,,09/09/2026 20:10
 69eb396b-6d7c-4fe7-83f8-31f43743f41f,photo.market,premium,242,242,high,medium,5,namesilo,,,27/09/2026 02:21
+5551b208-45d8-449a-9868-7f3144125844,jong.market,available,35.39,35.39,medium,low,4,spaceship,,,28/09/2026 14:03
 388d10ab-d030-467a-8899-4ec877aaf92e,slipped.market,available,44.49,44.49,high,low,7,namesilo,,,18/09/2026 02:25
 56f94d50-e84c-4924-8105-d77cafc2f371,unfamiliar.market,available,44.49,44.49,high,low,10,namesilo,,,12/09/2026 09:55
 bc29c785-0f3c-4d1e-99f5-a353e2f7ebfd,bns.market,available,44.49,44.49,high,low,3,namesilo,,,21/09/2026 14:15
 65946ca2-49e0-4d99-94fb-a47b18f00098,assembly.market,available,44.49,44.49,high,low,8,namesilo,,,20/09/2026 16:09
+8f537b5f-c1cb-46f6-9d82-c678b16024de,consolation.market,available,44.49,44.49,medium,low,11,namesilo,,,28/09/2026 22:58
 2feefc8b-edd7-47ac-ad80-fcaa63aafcc6,mammary.market,available,44.49,44.49,medium,low,7,namesilo,,,24/08/2026 14:23
 8de89b9c-fb23-4a28-888b-662cc6d45f9d,keyed.market,available,44.49,44.49,medium,low,5,namesilo,,,22/08/2026 15:42
 398de70f-516f-4bfd-8ce5-8f71c1910742,asura.market,available,46.98,55.98,medium,low,5,namecheap,,,20/09/2026 18:26
@@ -80,7 +85,9 @@ e65be78f-f343-494f-8373-10498e8f100d,bihari.market,available,44.49,44.49,medium,
 65d81c73-d592-49ab-b301-89855b8677e9,bendable.market,available,44.49,44.49,medium,low,8,namesilo,,,09/08/2026 14:07
 0322d2bf-9b31-4f3b-a6c0-606caeedf4e8,tongue.market,available,55.98,,high,low,6,namecheap,,,
 22af6ebb-2bb8-47b7-916d-39b797f55aa3,bigness.market,available,44.49,44.49,medium,low,7,namesilo,,,23/09/2026 15:14
+fa342364-8b34-4cb5-8095-82aa8b2896bd,ayres.market,available,36.6,36.6,medium,low,5,dynadot,,,28/09/2026 12:24
 d8d57779-a7cd-40bb-bedc-26862b1b7ba2,difficulty.market,available,44.49,44.49,high,low,10,namesilo,,,
+dd06cfb6-9c74-41a2-b0a0-2741a0d4fa3f,hog.market,premium,414.2,414.2,high,low,3,spaceship,,,28/09/2026 10:04
 3cb34d45-4600-46eb-b71a-21668eba8952,craniate.market,available,44.49,44.49,medium,low,8,namesilo,,,13/09/2026 04:37
 480f2bfb-3154-4779-b986-a7d080565e36,onstage.market,available,46.98,55.98,high,low,8,namecheap,,,16/09/2026 19:36
 733d1933-a1af-44b3-9b64-cd9d13d8c8f0,dennis.market,available,44.49,44.49,high,low,6,namesilo,,,25/09/2026 13:58
@@ -120,8 +127,10 @@ ed90000c-cdcf-40ae-b243-79d0a74fecd5,hodgson.market,available,35.39,35.39,medium
 4456a602-0642-4d2b-a936-c35103aa0d04,swelled.market,available,44.49,44.49,medium,low,7,namesilo,,,11/09/2026 05:38
 c668dde2-54bc-4bdf-8203-60ef9395dd29,hiram.market,available,44.49,44.49,medium,low,5,namesilo,,,27/09/2026 19:47
 61799958-7a52-4f76-a1e0-5dbbc05cbb6e,binate.market,available,44.49,44.49,medium,low,6,namesilo,,,09/08/2026 23:39
+9ab94b32-4375-4098-b1c0-0fb907bcce2d,morals.market,available,44.49,44.49,medium,low,6,namesilo,,,28/09/2026 14:04
+aa6bdf62-00f1-4819-b0b1-cea71f087a8a,stationed.market,available,35.39,35.39,medium,low,9,spaceship,,,28/09/2026 17:32
 3b0def6c-e3e1-49d0-aa3f-099435ad1611,latakia.market,available,44.49,44.49,medium,low,7,namesilo,,,18/09/2026 01:28
-c0315da3-e795-4b87-8457-b6d31eb99815,constantly.market,available,44.49,44.49,high,low,10,namesilo,,,
+c0315da3-e795-4b87-8457-b6d31eb99815,constantly.market,available,35.39,35.39,medium,low,10,spaceship,,,28/09/2026 14:18
 711b4cd9-9f20-4793-a646-96485f28c313,pals.market,available,46.98,55.98,high,low,4,namecheap,,,20/09/2026 10:42
 598b91ee-f85a-4e5c-8277-c12bde50f44e,incurable.market,available,44.49,44.49,medium,low,9,namesilo,,,22/08/2026 02:06
 4426d98b-70b2-4344-82bc-35375791dff7,fancy.market,premium,260,260,high,low,5,namecheap,,,24/09/2026 16:32
@@ -134,6 +143,7 @@ eff64730-94e2-44fc-853b-1de71d49fa11,munition.market,available,44.49,44.49,high,
 c2e5c7e0-4f94-4fba-91a3-16af41c46b08,alpenstock.market,available,44.49,44.49,medium,low,10,namesilo,,,18/09/2026 13:32
 f5d68a56-0102-4c0b-9660-1ac8ec244e11,insolvent.market,available,44.49,44.49,medium,low,9,namesilo,,,08/08/2026 13:34
 77c23a52-0675-4c82-9b21-d031bb8ac683,censor.market,available,44.49,44.49,high,low,6,namesilo,,,22/09/2026 00:43
+5e37a21b-ca5d-4d91-ae4b-4734d24c3a4f,lent.market,available,44.49,44.49,high,low,4,namesilo,,,28/09/2026 14:42
 54575a58-f5d4-4afa-976c-515c5ad84b43,petulant.market,available,44.49,44.49,medium,low,8,namesilo,,,22/08/2026 10:27
 5ea81e76-b998-46b3-a0f1-369f55b2f783,equable.market,available,44.49,44.49,medium,low,7,namesilo,,,17/08/2026 11:33
 953f605e-83fe-4b8e-889f-bcb20215684f,travels.market,premium,128.7,128.7,high,low,7,namecheap,,,17/09/2026 06:44
@@ -163,12 +173,13 @@ c99d7d51-7834-4237-95e3-8bbf40505c68,criminal.market,available,46.98,55.98,high,
 3270b843-430b-4915-ac38-82cd486eddf4,went.market,available,44.49,44.49,high,low,4,namesilo,,,
 64188a31-596a-4274-9b41-ad49083d60a5,waldo.market,available,35.39,35.39,medium,low,5,spaceship,,,27/09/2026 20:38
 a9f0e922-c24d-47d3-99e7-b567f3701500,inanimate.market,available,44.49,44.49,medium,low,9,namesilo,,,22/08/2026 00:17
+bd621afe-03ff-4fb0-b209-2fd4a61a5183,emerson.market,available,35.39,35.39,high,low,7,spaceship,,,29/09/2026 00:47
 24b9117a-cea9-47d6-b147-9e4383bcf02d,shriek.market,available,44.49,44.49,medium,low,6,namesilo,,,09/09/2026 23:53
 ba4bd166-933c-4821-a9e3-440c85734037,eighteen.market,available,44.49,44.49,high,low,8,namesilo,,,21/09/2026 11:58
 0507a300-cd4c-47e2-bd4e-e42d3e0390d8,curly.market,available,44.49,44.49,high,low,5,namesilo,,,13/08/2026 11:23
-d69ea164-061d-4e66-ba5e-3bb6685b3aa2,hang.market,available,44.49,44.49,high,low,4,namesilo,,,
-35c6a1ee-0636-4e13-b738-9774af114785,ben.market,premium,500,,high,medium,3,name.com,,,
-9488e43a-39e1-42cf-b1a1-6385779d46be,hum.market,premium,500,,high,low,3,name.com,,,
+d69ea164-061d-4e66-ba5e-3bb6685b3aa2,hang.market,available,36.6,36.6,high,low,4,dynadot,,,28/09/2026 19:01
+35c6a1ee-0636-4e13-b738-9774af114785,ben.market,premium,218.8,437.19,high,medium,3,porkbun,,,29/09/2026 02:04
+9488e43a-39e1-42cf-b1a1-6385779d46be,hum.market,premium,414.2,414.2,high,low,3,spaceship,,,28/09/2026 19:52
 0efdbaa1-3bbe-4b3b-bb66-1e71873596c2,exception.market,available,44.49,44.49,high,low,9,namesilo,,,
 d9b14f37-109c-4c9d-b71d-505d7dbf9185,claimed.market,available,44.49,44.49,medium,low,7,namesilo,,,27/09/2026 23:56
 e89f3f3f-a93c-4502-b69d-97de53136285,sacrificial.market,available,55.98,,medium,low,11,namecheap,,,
@@ -179,12 +190,14 @@ d37fcfe7-2800-4422-9fc7-ae1573268c71,nara.market,available,36.6,36.6,medium,low,
 61b1d901-b2c8-43e9-8f95-eefa7948c328,ridge.market,resell,,,high,low,5,,,,28/09/2026 03:01
 60ae7152-51c2-4883-8cd9-f610f657acad,unicameral.market,available,44.49,44.49,medium,low,10,namesilo,,,12/09/2026 12:46
 2563f500-38f7-4a2c-b9a2-c81b93ef6f55,phycology.market,available,44.49,44.49,medium,low,9,namesilo,,,18/09/2026 07:09
+38bc5494-178d-48c4-82fc-1f5a1083be3a,stimulating.market,available,35.39,35.39,medium,low,11,spaceship,,,28/09/2026 21:23
 668ce0c1-137f-44d6-86db-16eb40071531,acer.market,available,44.49,44.49,high,low,4,namesilo,,,16/09/2026 23:32
-84751bde-bfaf-4051-82ae-2f60eeb10e6e,punter.market,available,44.49,44.49,medium,low,6,namesilo,,,
+84751bde-bfaf-4051-82ae-2f60eeb10e6e,punter.market,available,44.49,44.49,medium,low,6,namesilo,,,29/09/2026 02:17
 fd91005d-7ee6-4c63-b20d-1e97642f8bfb,argive.market,available,44.49,44.49,medium,low,6,namesilo,,,06/08/2026 18:27
 36c85a06-7d7c-4e3d-921f-a385ef9fe107,caudate.market,available,44.49,44.49,medium,low,7,namesilo,,,11/08/2026 22:26
 7494d701-55f9-4dad-9ef2-485b29785536,braky.market,available,44.49,44.49,low,low,5,namesilo,,,11/08/2026 01:57
 dacecf80-5dae-4645-aa40-3380e08e1947,britannic.market,available,44.49,44.49,medium,low,9,namesilo,,,11/08/2026 04:44
+98c77e48-ef2d-4e4a-9a15-9adf1f541857,founder.market,available,34.2,34.2,high,medium,7,cloudflare,,,28/09/2026 13:40
 7b7c7962-f914-4bb5-8afc-b8e09da55280,switching.market,available,44.49,44.49,high,low,9,namesilo,,,28/09/2026 06:49
 60f09826-b23c-4b27-9b16-e9c2479cdf12,catkinate.market,available,44.49,44.49,medium,low,9,namesilo,,,11/08/2026 22:09
 23dc4ad4-f24c-47d4-a1d1-c7005d282fe9,manny.market,available,35.39,35.39,high,low,5,spaceship,,,28/09/2026 07:22
@@ -197,12 +210,14 @@ cd9c2f9c-40ea-47b5-a2b5-c528fcaa6c89,amniotic.market,available,46.98,55.98,mediu
 733d400e-4421-420f-aba6-b6aa980e32c7,polio.market,available,44.49,44.49,medium,low,5,namesilo,,,17/09/2026 05:40
 b32d7e4c-9fbb-473d-a3cb-d42c0f5f6ccc,doubled.market,available,44.49,44.49,high,low,7,namesilo,,,14/08/2026 16:55
 82700c1b-4aab-43f5-95ee-9c4d489b4d19,tabby.market,available,44.49,44.49,high,low,5,namesilo,,,23/09/2026 09:31
-6e22db67-6338-42d7-a999-aced64198d7a,knot.market,available,44.49,44.49,high,low,4,namesilo,,,
+6e22db67-6338-42d7-a999-aced64198d7a,knot.market,available,35.53,35.53,high,low,4,porkbun,,,28/09/2026 19:37
 d2ae01e7-9275-404b-8682-fdb923e0b5db,modernist.market,available,44.49,44.49,high,low,9,namesilo,,,27/09/2026 04:47
 a1d781e3-122e-4d91-b798-bdc75a2454fd,arbutus.market,available,44.49,44.49,medium,low,7,namesilo,,,20/09/2026 01:01
 48120f50-0f1b-4dcd-ba99-6ddf78690e9a,backspacer.market,available,44.49,44.49,medium,low,10,namesilo,,,21/09/2026 16:02
 6dfe1cb6-8e03-4759-a882-7cf92c938ecb,orchestral.market,available,44.49,44.49,high,low,10,namesilo,,,04/09/2026 17:42
 f42f9dc0-3e26-4e45-9a3a-afa80ed604b9,grumbling.market,available,46.98,55.98,medium,low,9,namecheap,,,20/08/2026 20:33
+735899a1-53d8-4c01-aa0c-deb8e873fbb6,sigmund.market,available,44.49,44.49,medium,low,7,namesilo,,,28/09/2026 11:40
+4268887f-c35c-4883-aa4b-829bbf86fea9,sabrina.market,available,36.6,36.6,medium,low,7,dynadot,,,29/09/2026 04:05
 2d874dea-585b-4ebf-962a-f7f212e92973,whitefish.market,available,44.49,44.49,medium,low,10,namesilo,,,
 1cc63f0f-6499-4f66-8249-ebdf19242398,pulls.market,available,44.49,44.49,medium,low,5,namesilo,,,16/09/2026 23:15
 35efd639-cdd9-4004-b646-4ed9a12c430d,tempering.market,available,44.49,44.49,medium,low,9,namesilo,,,11/09/2026 10:56
@@ -211,6 +226,7 @@ cb313281-e5b4-403e-ae1a-e7a9248eebbc,brockhouse.market,available,44.49,44.49,med
 b05414ff-9890-424f-8b81-7f62b89382dd,september.market,available,44.49,44.49,high,low,9,namesilo,,,
 6e4103fa-a4de-4c77-9ab3-273b39846fab,cleanser.market,available,44.49,44.49,high,low,8,namesilo,,,24/09/2026 15:26
 c8d955bd-fbc8-4d2c-99e7-b88be576f61a,canvasback.market,available,64.99,64.99,medium,low,10,name.com,,,21/09/2026 10:51
+66ec13d8-0e13-4414-8860-9e3b5e8fbb25,halsey.market,available,35.53,35.53,medium,low,6,porkbun,,,28/09/2026 16:48
 aabb50a6-e1cc-4d21-946e-dabb3b1ca1e0,automatic.market,available,44.49,44.49,high,low,9,namesilo,,,22/09/2026 14:02
 98ff8c71-70fd-46fb-81aa-98dc6713a696,stubbornly.market,available,44.49,44.49,medium,low,10,namesilo,,,14/09/2026 10:12
 96bc61bd-590f-478e-aadf-f3f2257cbf3c,xxviii.market,available,44.49,44.49,medium,low,6,namesilo,,,
@@ -228,14 +244,18 @@ b06e640c-cb6b-4757-95d3-51e576ea5a7a,sophistication.market,available,44.49,44.49
 d5aa4e20-93b1-4270-996d-a17c2496ff7e,battledore.market,available,44.49,44.49,medium,low,10,namesilo,,,21/09/2026 17:16
 2e70283b-1d3c-4740-843c-a1993da4202b,filar.market,available,44.49,44.49,medium,low,5,namesilo,,,18/08/2026 04:10
 a4c39887-4b23-44b3-8a60-b64e39847d43,prudently.market,available,44.49,44.49,medium,low,9,namesilo,,,15/09/2026 21:50
+9e59126f-5f96-4196-97c6-4ba3b6fb8a83,fallout.market,available,35.39,35.39,medium,low,7,spaceship,,,28/09/2026 19:11
 de137934-4561-4d56-bda5-fba51114ea99,agitator.market,available,46.98,55.98,medium,low,8,namecheap,,,17/09/2026 18:07
 1a34db54-59f9-48f3-a676-85cf9aa26eb8,bilimbi.market,available,44.49,44.49,medium,low,7,namesilo,,,21/09/2026 09:13
 28085cff-4b0e-4f4e-b0c0-149685501178,alca.market,available,46.98,55.98,high,low,4,namecheap,,,18/09/2026 03:36
 89f1b4c5-8db0-4b5b-9a44-e3982cdab1e8,municipal.market,premium,71.4,71.4,high,low,9,namesilo,,,03/09/2026 10:58
 a8a6f5dc-3d2f-49ba-868d-6efa42c46a9e,sanctioned.market,available,44.49,44.49,medium,low,10,namesilo,,,06/08/2026 09:24
 54d844ee-2d88-4ad1-8e9a-efafd579e5b7,avenue.market,resell,,,high,medium,6,"DNSPod, Inc.",23/03/2022 13:15,23/03/2027 13:15,26/09/2026 04:10
+e260250b-c6c8-45de-8878-ca7564de8d78,surfing.market,premium,102.67,102.67,high,low,7,spaceship,,,29/09/2026 02:15
 d62f9f56-54ff-4e35-9ffd-d1a26de0ce30,bidding.market,premium,118.8,118.8,high,low,7,namesilo,,,23/09/2026 13:29
 2a3f4b39-96b6-45d2-9143-052c91a493d3,roundabout.market,available,,,medium,low,11,,,,
+b0d6059b-2406-465a-afc9-3a37a9f98897,wuhan.market,premium,512,512,high,low,5,namesilo,,,29/09/2026 02:39
+fab3defc-470d-4d2a-8994-9d2005e883bf,holliday.market,available,44.49,44.49,medium,low,8,namesilo,,,29/09/2026 04:32
 00a709df-c3fe-4a98-bd2b-25d4f079f6b1,lloyd.market,available,44.49,44.49,high,low,5,namesilo,,,25/09/2026 06:57
 d92ebf33-a181-489c-8b07-133484bafd6a,protean.market,available,44.49,44.49,high,low,7,namesilo,,,09/09/2026 04:06
 95fcec64-7bf5-4594-a2b0-45f1850edbd9,voluntarily.market,available,44.49,44.49,high,low,11,namesilo,,,
@@ -244,8 +264,11 @@ d92ebf33-a181-489c-8b07-133484bafd6a,protean.market,available,44.49,44.49,high,l
 2933917d-cd21-4d1f-81ed-bc9f506e7517,bedevil.market,available,46.98,55.98,medium,low,7,namecheap,,,14/08/2026 21:15
 868381ca-f38a-4128-9735-4c97a5a5cc1b,unvented.market,available,44.49,44.49,low,low,8,namesilo,,,12/09/2026 22:11
 9d415c25-ea71-43db-b38c-ce699c495442,blackstone.market,available,44.49,44.49,high,low,10,namesilo,,,28/09/2026 04:09
+78af8adc-1c00-4173-8b3b-d257d25e3a57,impose.market,available,34.2,34.2,medium,low,6,cloudflare,,,28/09/2026 10:13
 f56a765e-934f-422d-80e8-0058e6d30832,eldritch.market,available,44.49,44.49,medium,low,8,namesilo,,,16/08/2026 02:21
+5ef4d554-db1e-44c1-95d8-337102b22f16,roswell.market,available,35.39,35.39,medium,low,7,spaceship,,,28/09/2026 15:16
 adf0af6b-826f-4fc8-8745-6713284ebf13,christians.market,available,44.49,44.49,medium,low,10,namesilo,,,16/09/2026 12:24
+f7d66d12-e3ea-4367-acb0-d29d5e6d9b62,rnas.market,available,44.49,44.49,low,low,4,namesilo,,,29/09/2026 05:15
 7bbfed89-0fab-4b0e-a4d2-8950aac7f8bc,nominated.market,available,46.98,55.98,high,low,9,namecheap,,,03/09/2026 18:18
 c600b230-89e7-44cd-8d34-9d9db643465a,adopt.market,available,36.6,36.6,high,low,5,dynadot,,,28/09/2026 03:18
 f2ba9223-0c22-4d6c-b49e-bb0734305d25,wild.market,premium,260,260,high,medium,4,namecheap,,,22/09/2026 17:18
@@ -260,6 +283,7 @@ c3b2e71b-7964-4af1-818d-d6aeb8379b84,ttyl.market,available,44.49,44.49,medium,lo
 d365f8cd-4f21-4eea-9013-0ec977c7de01,groovy.market,available,44.49,44.49,high,low,6,namesilo,,,08/08/2026 12:35
 3a748942-c1f5-4e2d-ad39-00c8d427787c,misdirect.market,available,44.49,44.49,medium,low,9,namesilo,,,13/08/2026 02:26
 b48b2fd9-4a9c-4e6b-967d-c885fe96423f,rabid.market,available,44.49,44.49,medium,low,5,namesilo,,,17/08/2026 21:52
+14d3475a-598b-48be-9a85-06b795927a91,triggered.market,available,34.2,34.2,medium,low,9,cloudflare,,,29/09/2026 05:24
 c4657448-ef8a-4109-99cb-524c725bf636,gyp.market,available,44.49,44.49,medium,low,3,namesilo,,,14/09/2026 08:05
 be3cdb72-0e56-4f7f-a675-627f462a2554,cage.market,available,44.49,44.49,high,low,4,namesilo,,,22/09/2026 14:36
 daee00fe-fbd4-4a1c-9442-0396ffcf0752,manually.market,available,44.49,44.49,medium,low,8,namesilo,,,15/09/2026 13:27
@@ -281,6 +305,7 @@ a90549f9-68f7-4fd1-82cc-bd1f2fbeab5b,erasable.market,available,44.49,44.49,mediu
 4c9038c4-0f6f-44bd-8dd5-deca27f8b84b,argentine.market,available,,,high,high,9,,,,
 11750435-df62-42e5-a927-765f32d3c232,atenolol.market,available,46.98,55.98,medium,low,8,namecheap,,,20/09/2026 20:09
 e8730069-af28-4649-aae9-c4fc8ce29258,rube.market,available,44.49,44.49,medium,low,4,namesilo,,,21/08/2026 08:03
+310e3bc7-91da-4934-814b-5cc1334236fb,boland.market,available,34.2,34.2,medium,low,6,cloudflare,,,29/09/2026 04:35
 648898ab-3f26-4026-a88e-fc11a1dad3ce,hines.market,available,44.49,44.49,high,low,5,namesilo,,,27/09/2026 07:58
 88522542-c9a3-4e3c-a6cf-f0afaaaea25c,lobar.market,available,44.49,44.49,medium,low,5,namesilo,,,24/08/2026 08:33
 8cf6554c-4597-43e8-ad6f-9af32d9d7f9f,strindberg.market,available,44.49,44.49,medium,low,10,namesilo,,,21/09/2026 03:49
@@ -300,7 +325,8 @@ dc3a698a-11da-4534-b43c-6930dcf7c2d6,anemic.market,available,44.49,44.49,medium,
 128e654d-3d72-4e1f-9650-a8b911434705,bottomless.market,available,46.98,55.98,high,low,10,namecheap,,,10/08/2026 21:21
 76ff6bcb-df80-49c6-8397-da4b7e6bc1b2,ixc.market,available,,,medium,low,3,,,,
 7b3252ab-a4f4-443b-aca7-93c4aced5420,gonzalez.market,available,44.49,44.49,high,low,8,namesilo,,,25/09/2026 16:13
-28f1f463-dc24-4664-b49a-1bfbb4b80f08,staff.market,resell,,,high,low,5,"DNSPod, Inc.",04/05/2023 15:15,04/05/2027 15:15,26/09/2026 09:15
+28f1f463-dc24-4664-b49a-1bfbb4b80f08,staff.market,resell,,,high,low,5,"DNSPod, Inc.",04/05/2023 15:15,04/05/2027 15:15,28/09/2026 10:20
+2938bf66-333f-4f2c-9cdc-fe329b380225,whittaker.market,available,44.49,44.49,medium,low,9,namesilo,,,28/09/2026 16:41
 6c6fc2da-0b8a-461f-b2b9-f78da02ea920,grub.market,resell,,,high,low,4,"Chengdu West Dimension Digital Technology Co., Ltd.",05/01/2021 02:40,05/01/2027 02:40,26/09/2026 06:31
 e40d5d05-a907-484a-bbb5-e22d54c05e89,alejandro.market,available,44.49,44.49,high,low,9,namesilo,,,28/09/2026 07:52
 9d3997ae-7b35-4e0c-a0c5-0f33e7d812e8,gray.market,premium,512,512,high,low,4,namesilo,,,24/09/2026 22:57
@@ -314,12 +340,14 @@ c55cb76b-606f-47bd-97ed-7bb9af3a5d83,malicious.market,available,44.49,44.49,medi
 1a800bc7-79a0-4dec-a34a-9b7966716d72,fatuous.market,available,44.49,44.49,low,low,7,namesilo,,,07/08/2026 02:39
 06a6c6aa-857e-49f0-bee0-bd0c482dfd40,abeyance.market,available,44.49,44.49,medium,low,8,namesilo,,,16/09/2026 15:20
 222ea87f-e822-4816-a738-679d12a190e6,unpopular.market,available,44.49,44.49,medium,low,9,namesilo,,,12/09/2026 17:11
+0c27bc9a-47db-4aec-b31f-9229b2435623,sentenced.market,available,34.2,34.2,low,low,9,cloudflare,,,28/09/2026 17:52
 75fb6c82-e468-4e54-828a-4ec362613bfb,cannoneer.market,available,44.49,44.49,medium,low,9,namesilo,,,20/09/2026 11:44
 059c6e31-7de5-46f4-93cd-216cd9439c06,carbonado.market,available,46.98,55.98,medium,low,9,namecheap,,,24/09/2026 00:32
 16d520b8-4b31-4d1b-8a9b-c082bb27703f,somatic.market,available,44.49,44.49,high,low,7,namesilo,,,13/08/2026 01:56
 0b01f70e-95ca-42ce-a251-de728c20b74e,balbriggan.market,available,46.98,55.98,medium,low,10,namecheap,,,21/09/2026 21:25
 5ebe7807-ab88-4485-ae32-efb6ebc7d500,doomed.market,available,44.49,44.49,medium,low,6,namesilo,,,14/08/2026 15:57
 c2bbc424-038b-41cb-8d5a-b5761c405207,anshar.market,available,44.49,44.49,medium,low,6,namesilo,,,19/09/2026 12:12
+cf73deb5-7b99-49c9-a113-45ce453c8983,ingrid.market,available,36.6,36.6,medium,low,6,dynadot,,,28/09/2026 16:32
 5df2e7ce-fd4d-44a7-8021-462cd5009980,pithily.market,available,46.98,55.98,medium,low,7,namecheap,,,15/09/2026 20:06
 2bf50765-60fa-49af-a283-d74fcc2aba7a,snap.market,resell,,,high,medium,4,"DNSPod, Inc.",05/09/2023 15:15,05/09/2030 15:15,26/09/2026 09:06
 f57641b2-078a-4840-8296-beefbc9086e5,abkhazian.market,available,44.49,44.49,medium,low,9,namesilo,,,
@@ -330,6 +358,7 @@ b35e1264-dc99-47fa-872f-128c4de24795,alpinia.market,available,46.98,55.98,medium
 cfd80b7e-4a4c-4399-a422-8da6c066850b,oaten.market,available,44.49,44.49,medium,low,5,namesilo,,,03/09/2026 23:28
 c1058cb6-b748-4de4-bc6d-afc9757ed75f,grandfathers.market,available,44.49,44.49,medium,low,12,namesilo,,,20/09/2026 22:52
 a223b451-81ba-48a8-a13a-ee8331ee388a,deepening.market,available,44.49,44.49,medium,low,9,namesilo,,,13/08/2026 23:00
+f193a1ea-3f2f-4b07-b0e7-2bc59ec153dd,graduating.market,available,34.2,34.2,low,low,10,cloudflare,,,28/09/2026 12:36
 56c7d381-8ac6-4850-8d70-1630b43f095b,splitting.market,available,44.49,44.49,high,low,9,namesilo,,,09/09/2026 14:01
 b4679917-928d-482b-8344-5036465f4e06,indigent.market,available,44.49,44.49,medium,low,8,namesilo,,,14/08/2026 04:34
 b3d79c93-ec5c-47f4-81c4-05e28d496193,balsamic.market,available,44.49,44.49,high,low,8,namesilo,,,22/09/2026 16:34
@@ -341,6 +370,7 @@ a1425108-23a6-4b2b-bde0-99404f842e54,benzene.market,available,44.49,44.49,high,l
 2ed2d07f-25f3-4c13-ab44-cd4624debb85,peep.market,available,44.49,44.49,high,low,4,namesilo,,,24/09/2026 14:07
 8fcb88e6-b35b-4597-9e8a-57978db454c5,barthelme.market,available,44.49,44.49,medium,low,9,namesilo,,,22/09/2026 09:06
 818bf7ca-573e-4332-ae7f-d3c0264b2993,armlet.market,available,44.49,44.49,medium,low,6,namesilo,,,20/09/2026 06:20
+4ba23776-105a-486c-9be0-f0007ea947df,encouragement.market,available,35.39,35.39,medium,low,13,spaceship,,,28/09/2026 22:35
 1491a67b-f02f-4cc5-849f-92f446be5cbd,waylay.market,available,44.49,44.49,medium,low,6,namesilo,,,18/09/2026 17:32
 afa67848-62ee-4ed6-88bf-2f35c19394f1,tokyo.market,premium,512,512,high,low,5,namesilo,,,24/09/2026 12:18
 227e0cfb-5330-4e42-8f1b-b3b5f669ec30,bankhead.market,available,44.49,44.49,medium,low,8,namesilo,,,22/09/2026 02:47
@@ -353,7 +383,8 @@ afa67848-62ee-4ed6-88bf-2f35c19394f1,tokyo.market,premium,512,512,high,low,5,nam
 290542cc-75cc-4d88-82b3-4b103c21706c,henrietta.market,available,44.49,44.49,high,low,9,namesilo,,,25/09/2026 17:42
 bd9e2aa3-14c3-48d6-8672-055a83716548,yowl.market,available,44.49,44.49,medium,low,4,namesilo,,,23/09/2026 06:24
 85b0de52-1601-437b-b28a-af6f86ae05f8,santa.market,resell,,,high,low,5,"DNSPod, Inc.",17/07/2024 03:51,17/07/2030 03:51,26/09/2026 08:48
-3b7a8016-0b3f-43d4-9dc0-a86666cf45ed,idiom.market,available,44.49,44.49,high,low,5,namesilo,,,
+3b7a8016-0b3f-43d4-9dc0-a86666cf45ed,idiom.market,available,35.39,35.39,high,low,5,spaceship,,,28/09/2026 22:21
+55f66e9c-2d49-4b0d-8fb8-59eedc683e42,hardest.market,available,35.39,35.39,low,low,7,spaceship,,,28/09/2026 12:52
 fae3a23c-08cb-44f5-a7e5-6e1e53a50e9e,tried.market,available,75.99,75.99,high,low,5,godaddy,,,28/09/2026 02:21
 ec486dc0-bc61-41ad-99bb-6bebf637e8c9,balzac.market,available,44.49,44.49,medium,low,6,namesilo,,,22/09/2026 00:32
 d5e672b3-3355-48c1-9b4a-2aadaadd7040,abiding.market,available,44.49,44.49,high,low,7,namesilo,,,21/09/2026 13:52
@@ -363,12 +394,13 @@ d73fa491-1911-44d7-97fc-ea7fc242ee47,obsession.market,available,44.49,44.49,high
 07b66b01-28b8-421b-8307-8d01f4ea2843,hiss.market,available,44.49,44.49,medium,low,4,namesilo,,,24/09/2026 06:41
 876618c6-d519-45b8-b459-57cd2079b603,vinous.market,available,44.49,44.49,medium,low,6,namesilo,,,13/09/2026 05:47
 fbbd9bba-8050-4367-9c5e-a87d64363bb6,dent.market,resell,,,high,low,4,"Chengdu West Dimension Digital Technology Co., Ltd.",29/08/2023 17:24,29/08/2027 17:24,26/09/2026 05:30
+c4f4d36d-89ea-4e30-b294-296be5ac3867,ernest.market,available,34.2,34.2,high,low,6,cloudflare,,,28/09/2026 11:52
 9352dc8b-5ba5-4c7d-9668-fb1806b81594,specter.market,available,44.49,44.49,high,low,7,namesilo,,,08/09/2026 18:41
-de9d485d-f7e8-4129-b6d9-815e5e134e5d,wagering.market,available,44.49,44.49,high,low,8,namesilo,,,25/09/2026 02:56
+de9d485d-f7e8-4129-b6d9-815e5e134e5d,wagering.market,available,35.53,35.53,medium,low,8,porkbun,,,28/09/2026 11:01
 4cb6655e-1559-4039-bdc5-8a42020c97aa,satiated.market,available,44.49,44.49,medium,low,8,namesilo,,,09/09/2026 21:39
 10391779-a8bd-4960-aa92-0c32af39f9bf,arguments.market,available,44.49,44.49,medium,low,9,namesilo,,,16/09/2026 05:03
 f9b8872e-e3b0-439b-8220-abe6928644f0,silently.market,available,44.49,44.49,medium,low,8,namesilo,,,15/09/2026 15:52
-3ae5d583-681f-444b-9979-96072a3b5689,distance.market,available,44.49,44.49,high,low,8,namesilo,,,
+3ae5d583-681f-444b-9979-96072a3b5689,distance.market,available,35.39,35.39,high,low,8,spaceship,,,28/09/2026 20:43
 7e18ee93-4f77-4fb3-a10d-2f27a9891c41,chivalric.market,available,44.49,44.49,medium,low,9,namesilo,,,12/08/2026 06:09
 1ca515c8-2ded-47bd-96a5-5bb6fad19b9f,intention.market,available,44.49,44.49,high,low,9,namesilo,,,22/08/2026 07:55
 fe8b5140-6257-492e-bd09-f6e9ef178f1e,apologia.market,available,44.49,44.49,medium,low,8,namesilo,,,19/09/2026 18:44
@@ -384,7 +416,7 @@ bbb3533b-cd37-4ae7-aaae-ee89148eb005,magazine.market,premium,512,512,high,low,8,
 4298e91c-70e0-4213-ab01-53e2ab0fc193,araguaia.market,available,44.49,44.49,medium,low,8,namesilo,,,19/09/2026 23:45
 51f92f18-b133-4ea8-a9e6-3ffcbae607eb,lucerne.market,available,44.49,44.49,high,low,7,namesilo,,,18/09/2026 06:08
 7caf14fe-d508-42cb-af51-40a7ddf7c6d7,handbasket.market,available,44.49,44.49,medium,low,10,namesilo,,,22/09/2026 11:03
-90387e52-e494-46bf-99ef-f1bb39719433,attitude.market,available,44.49,44.49,high,low,8,namesilo,,,
+90387e52-e494-46bf-99ef-f1bb39719433,attitude.market,available,44.49,44.49,high,low,8,namesilo,,,28/09/2026 23:06
 700895ba-ed4f-410d-af66-cd306c377c2d,hunted.market,available,44.49,44.49,medium,low,6,namesilo,,,21/08/2026 15:43
 1e31f892-de14-4c7e-91f7-d94e60038952,pathogenic.market,available,44.49,44.49,medium,low,10,namesilo,,,22/08/2026 04:17
 5efbc54b-c553-4a1c-a089-5257984b35cf,respectfully.market,available,44.49,44.49,high,low,12,namesilo,,,
@@ -399,6 +431,7 @@ dcdd4899-fdb6-4e5d-8e3d-00c7e0374759,riddled.market,available,44.49,44.49,medium
 91d79990-9618-4f15-b6a8-21d73a03ff6c,concise.market,available,46.98,55.98,high,low,7,namecheap,,,23/09/2026 19:03
 35c3cf53-c0b4-4ade-b8b7-9e87771b1755,kim.market,premium,520,520,high,low,3,namecheap,,,25/09/2026 19:17
 63751898-0539-45f8-b4ef-eceb6cdc5af7,credentials.market,available,35.39,35.39,high,low,11,spaceship,,,28/09/2026 08:17
+6cd3665d-c41b-47b8-8901-a431e5ab0fad,singers.market,available,34.2,34.2,medium,low,7,cloudflare,,,28/09/2026 23:28
 99d2ffc0-870e-4401-9084-68b5fa2ac18c,jumpy.market,available,44.49,44.49,medium,low,5,namesilo,,,11/08/2026 09:53
 62fd292d-716b-4c77-807d-900f57a4a174,midwestern.market,premium,118.8,118.8,high,low,10,namesilo,,,24/08/2026 22:41
 c9c01734-c20e-4c83-9878-dceb603cd862,inches.market,available,44.49,44.49,low,low,6,namesilo,,,25/09/2026 20:47
@@ -420,6 +453,7 @@ a2fc9455-f41d-49b3-aede-15936b422d50,interests.market,premium,242,242,high,low,9
 6d71a58c-b5cf-4459-8a15-8c680df75557,quieted.market,available,44.49,44.49,medium,low,7,namesilo,,,20/09/2026 16:24
 c425421d-f5cd-4335-afdf-8ba251bbf35b,alsatia.market,available,44.49,44.49,medium,low,7,namesilo,,,18/09/2026 14:16
 e47541c0-ba1d-45a2-b7ec-3537007abaf3,marco.market,available,44.49,44.49,high,low,5,namesilo,,,
+8691c98c-bc68-48f8-bfef-56ff1bade361,beverley.market,available,44.49,44.49,medium,low,8,namesilo,,,29/09/2026 00:09
 716dd30c-8c5d-4dab-b496-c2d06f5e3016,curfew.market,available,46.98,55.98,medium,low,6,namecheap,,,24/09/2026 20:27
 437e98e9-14d4-402a-9fd1-8cd7ea8a5794,sparing.market,available,44.49,44.49,high,low,7,namesilo,,,18/08/2026 16:58
 5dc92459-3273-4f7b-8df3-08ee4667e076,folks.market,available,46.98,55.98,high,low,5,namecheap,,,24/09/2026 16:34
@@ -433,6 +467,7 @@ f2e50c67-f405-4b9d-b178-860d9268f2e1,kiev.market,premium,118.8,118.8,high,low,4,
 bbc6b1b3-ce81-4b95-b698-3f33667375e6,gimp.market,available,44.49,44.49,medium,low,4,namesilo,,,23/08/2026 13:28
 ad89d8cf-cd1e-4377-9a7e-ccf5a10dfe94,argument.market,available,44.49,44.49,high,low,8,namesilo,,,20/09/2026 04:49
 c3732caa-3c90-433d-88e2-f0a1e0e1b03a,driving.market,available,46.98,55.98,high,low,7,namecheap,,,24/09/2026 12:10
+6188695f-ac37-48c2-bb8d-8be4d22dcea7,kidnap.market,available,46.98,55.98,medium,low,6,namecheap,,,28/09/2026 20:48
 167e864e-0af8-4a4c-a7ba-e1cd79abfc15,unreactive.market,available,46.98,55.98,medium,low,10,namecheap,,,12/09/2026 17:50
 1a9fd6a5-d564-468e-b25f-b6164063db1b,laying.market,available,44.49,44.49,high,low,6,namesilo,,,25/09/2026 22:34
 b1a5755e-4164-4227-8fc0-ea3ab0ae9ad1,cissy.market,available,44.49,44.49,medium,low,5,namesilo,,,12/08/2026 08:40
@@ -443,6 +478,7 @@ a25639af-45ff-4f30-898b-c0defff24488,combination.market,available,46.98,55.98,hi
 dd1d849f-d8e4-45b5-908c-cc422afd97fc,waitress.market,available,34.2,34.2,high,low,8,cloudflare,,,27/09/2026 16:14
 b787505c-7dbb-4e6d-b4a3-f0c62d2ffba1,humongous.market,available,44.49,44.49,medium,low,9,namesilo,,,08/08/2026 12:58
 b577dca4-13a9-45e9-afc2-7d5b3daf3e71,impromptu.market,available,46.98,55.98,high,low,9,namecheap,,,
+11976584-c000-499b-8412-564ee45052f0,stunt.market,available,35.39,35.39,high,low,5,spaceship,,,28/09/2026 10:58
 77f4e3eb-667b-44d9-981e-03a823400b98,untaught.market,available,46.98,55.98,medium,low,8,namecheap,,,12/09/2026 18:56
 4e5cb524-487a-4c40-8171-b006b0d686ba,snotty.market,available,44.49,44.49,medium,low,6,namesilo,,,09/08/2026 20:42
 0e8bc0fb-638f-4088-94b5-28c33ee624ca,antsy.market,available,44.49,44.49,medium,low,5,namesilo,,,05/08/2026 20:27
@@ -452,7 +488,7 @@ aa82ae9e-51fc-4a45-bcd7-9e65570d0246,eagerly.market,available,44.49,44.49,high,l
 2f20a373-7d20-4c92-adb1-2815879f5036,throwaway.market,available,44.49,44.49,medium,low,9,namesilo,,,11/08/2026 05:13
 69c8a6d2-b882-43f2-93b0-ce0d6ed58a14,libidinous.market,available,46.98,55.98,medium,low,10,namecheap,,,22/08/2026 20:09
 e56c3940-6c25-4ff3-b701-21b3b132ca71,legitimate.market,available,44.49,44.49,high,low,10,namesilo,,,22/08/2026 23:04
-53fc6082-364b-4fa9-bcad-52250a5ed743,fig.market,premium,500,,high,low,3,name.com,,,
+53fc6082-364b-4fa9-bcad-52250a5ed743,fig.market,premium,520,520,high,low,3,namecheap,,,28/09/2026 19:43
 587b990c-3732-4033-aa1f-259d8285e67f,unstylish.market,available,44.49,44.49,medium,low,9,namesilo,,,10/09/2026 23:17
 6d1db237-eb2c-4e5f-af94-85bc4f5f85dd,intrepidly.market,available,44.49,44.49,medium,low,10,namesilo,,,14/09/2026 10:53
 42b1e97f-fe3c-4fb9-bebe-3a741711d9c9,tenured.market,available,44.49,44.49,medium,low,7,namesilo,,,11/09/2026 11:43
@@ -460,6 +496,9 @@ e56c3940-6c25-4ff3-b701-21b3b132ca71,legitimate.market,available,44.49,44.49,hig
 9e13c924-60bd-467c-b6c1-a056a9699d74,smithsonian.market,available,46.98,55.98,high,low,11,namecheap,,,25/09/2026 12:40
 7bca78a0-c9ca-4b23-ac63-9da5bab45028,niebuhr.market,available,44.49,44.49,medium,low,7,namesilo,,,22/09/2026 09:08
 c7e54dd8-b93b-4d22-a1dc-a84d749eeb26,gettysburg.market,available,44.49,44.49,medium,low,10,namesilo,,,22/09/2026 15:05
+a8e26e60-1e3d-48b0-a6d8-8ed13f2af73d,tutor.market,premium,207.2,207.2,high,low,5,spaceship,,,28/09/2026 10:46
+8423d4a9-2de4-4aa1-b00c-d50f4e18faaa,weaker.market,available,35.53,35.53,low,low,6,porkbun,,,29/09/2026 05:14
+6efa7074-61cd-4c6c-b0ae-5b6d430e1b63,installation.market,available,44.49,44.49,high,low,12,namesilo,,,29/09/2026 04:43
 b7a735a0-dcca-4fb4-bdc1-56cc9c455c62,disused.market,available,44.49,44.49,medium,low,7,namesilo,,,14/08/2026 13:28
 179d2753-7626-4d08-ad7a-9fd0140a3704,arouet.market,available,44.49,44.49,medium,low,6,namesilo,,,20/09/2026 08:30
 a19dcb8e-205a-4d94-8dcc-9840b27ae950,photographer.market,premium,118.8,118.8,high,low,12,namesilo,,,27/09/2026 06:12
@@ -479,6 +518,7 @@ a5dd6461-ed7c-4877-93ff-7a1a0463684f,stinging.market,available,64.99,64.99,mediu
 60928c7e-57d7-4068-9c17-5823b790862c,decisively.market,available,44.49,44.49,medium,low,10,namesilo,,,14/09/2026 11:10
 b6bd60e8-dc7f-4192-9bbc-51483ceee57c,regulatory.market,available,44.49,44.49,high,low,10,namesilo,,,09/09/2026 13:17
 a6f6b222-f7f8-400c-b751-3debac2563e0,joyously.market,available,46.98,55.98,high,low,8,namecheap,,,14/09/2026 21:30
+30e7aab9-3a4a-4caa-964e-39475bc4d062,vicinity.market,available,35.39,35.39,high,low,8,spaceship,,,28/09/2026 19:41
 b82d4e7a-82a3-4f95-b424-e0fa4eb282ff,osmotic.market,available,46.98,55.98,medium,low,7,namecheap,,,04/09/2026 18:15
 61bb26bd-463f-4eca-87cf-14ac59cb7ecf,airstrip.market,available,44.49,44.49,high,low,8,namesilo,,,17/09/2026 23:24
 da7eb13e-944a-404a-8103-4c3408e9dba5,astrodome.market,available,44.49,44.49,medium,low,9,namesilo,,,20/09/2026 17:37
@@ -490,18 +530,19 @@ d237552a-bba9-4547-9d79-b8ba376913bf,justly.market,available,44.49,44.49,medium,
 c3a71821-e6f8-47a6-a868-f396a2455b63,poky.market,available,44.49,44.49,medium,low,4,namesilo,,,14/08/2026 07:34
 ead1b5fd-4aa5-471c-9293-9ef2fa7aa20e,oceangoing.market,available,44.49,44.49,medium,low,10,namesilo,,,04/09/2026 00:20
 6d233ef6-2127-4dc8-81f5-fd217bde88bf,carolean.market,available,46.98,55.98,medium,low,8,namecheap,,,11/08/2026 19:31
+3431e0f7-28d2-4e9f-92ce-37ac60bec63c,cain.market,available,35.39,35.39,high,low,4,spaceship,,,28/09/2026 09:13
 ac5ab772-1677-4b94-b0e1-87c487ba9a44,glowingly.market,available,44.49,44.49,medium,low,9,namesilo,,,14/09/2026 21:48
 2e307585-8454-4df7-99d2-cab98561fbc3,felted.market,available,44.49,44.49,medium,low,6,namesilo,,,18/08/2026 01:00
 64d24560-2025-40af-bdf8-ecf56f871ec8,plastered.market,available,44.49,44.49,medium,low,9,namesilo,,,09/08/2026 15:43
 e235ff4b-69af-4a3d-b08e-469a8f5b4b75,lavender.market,available,46.98,55.98,high,low,8,namecheap,,,22/08/2026 21:02
 1cc0c16f-1ad3-4bfb-9f0f-a9af6968d0ed,principle.market,available,35.39,35.39,high,low,9,spaceship,,,27/09/2026 15:26
+9119d4a0-8dbb-471f-8e54-dd1be81fcd12,latina.market,premium,242,242,high,medium,6,namesilo,,,28/09/2026 11:11
 ae97db1f-d897-41ff-9c10-2db77402e35c,tributary.market,available,46.98,55.98,high,low,9,namecheap,,,12/08/2026 20:32
 ab569b85-7985-4c1c-b509-c042d28818aa,parishes.market,available,44.49,44.49,medium,low,8,namesilo,,,18/09/2026 08:08
 376caca0-c3d7-4490-ba50-286cfed23a4d,playful.market,available,46.98,55.98,high,low,7,namecheap,,,08/09/2026 20:58
 e2acfb06-3bac-400d-b695-fb81710013d6,selfmade.market,available,44.49,44.49,high,low,9,namesilo,,,10/09/2026 02:03
-f8d0b65b-8449-40da-accb-0bb2fc54a3c6,asia.market,available,,,high,low,4,,,,
 85e3a7a4-6a53-4763-aa1a-00429512cc3a,arriver.market,available,44.49,44.49,medium,low,7,namesilo,,,20/09/2026 09:16
-160cc853-be94-4634-ae35-a19a80f012e5,accident.market,available,44.49,44.49,high,low,8,namesilo,,,
+160cc853-be94-4634-ae35-a19a80f012e5,accident.market,available,44.49,44.49,medium,low,8,namesilo,,,28/09/2026 17:24
 5ef50ed4-de8d-405e-b75d-322cc9b83278,favorite.market,premium,242,242,high,low,8,namesilo,,,24/09/2026 04:33
 d23d1301-3648-4782-b6a9-61c45e603669,posture.market,available,35.39,35.39,high,low,7,spaceship,,,28/09/2026 08:17
 ed809295-fe44-4dc5-aaab-94df5818b5b7,stated.market,available,46.98,55.98,high,low,6,namecheap,,,10/09/2026 19:08
@@ -511,11 +552,13 @@ ad5a51bc-9510-4728-8683-260432e5cfe2,babbling.market,available,44.49,44.49,high,
 aeb442e2-ca3d-4202-a052-b1190355592d,bimonthly.market,available,44.49,44.49,high,low,9,namesilo,,,09/08/2026 22:42
 aa5376ab-e2d9-429f-8101-1dd9b73a2ee9,flexuous.market,available,44.49,44.49,medium,low,8,namesilo,,,18/08/2026 08:08
 d1248a86-5a40-46b3-90d5-ebb7f8ca48f1,renunciant.market,available,44.49,44.49,medium,low,10,namesilo,,,09/09/2026 14:23
+fe604ded-fb14-4f66-b720-84627e3e772c,hesitate.market,available,46.98,55.98,medium,low,8,namecheap,,,28/09/2026 20:09
+39fbe048-ae23-46f1-8cd1-12073cec18f3,manchester.market,available,36.6,36.6,high,low,10,dynadot,,,28/09/2026 19:49
 8965e21f-1051-4a2c-bbf4-322a24727d24,excites.market,available,44.49,44.49,medium,low,7,namesilo,,,20/09/2026 13:19
 dbdb8333-4820-4f18-af33-11fa91745c5f,trackable.market,available,44.49,44.49,high,low,9,namesilo,,,11/09/2026 18:37
 ede3472a-0169-44f1-8237-a9c1e70746f7,laura.market,available,44.49,44.49,high,low,5,namesilo,,,
 2aca0dfd-ad07-4d18-9c17-977f8356a86b,handwoven.market,available,44.49,44.49,medium,low,9,namesilo,,,20/08/2026 23:19
-e4ca2d6b-9e31-4746-a4cc-e9e3f256e4b9,sailor.market,available,55.98,,high,low,6,namecheap,,,
+6b2646b7-39bc-4184-8a04-1b56c148f72d,hampshire.market,premium,102.67,102.67,high,low,9,spaceship,,,29/09/2026 01:13
 aa101927-12ce-4292-8d6a-8f4a71427ba2,torrential.market,available,46.98,55.98,medium,low,10,namecheap,,,11/09/2026 17:57
 b6207e86-6311-40f2-92f3-b42c719fb643,votes.market,available,44.49,44.49,medium,low,5,namesilo,,,17/09/2026 13:26
 0eebffba-0bbe-4866-8030-b7fdf92ec495,birdwatch.market,available,46.98,55.98,high,low,9,namecheap,,,23/09/2026 19:35
@@ -524,16 +567,18 @@ b6207e86-6311-40f2-92f3-b42c719fb643,votes.market,available,44.49,44.49,medium,l
 f5ab3ae3-d084-4795-9a5d-5806b02ab47d,successful.market,premium,242,242,high,low,10,namesilo,,,28/09/2026 01:49
 e464087c-4136-407e-a5a2-c1043e716c19,flip.market,resell,,,high,medium,4,"NameSilo, LLC",19/07/2020 04:04,19/07/2027 04:04,26/09/2026 06:08
 0310808d-f526-4cc2-904e-ff1aa7591d09,shiner.market,available,44.49,44.49,medium,low,6,namesilo,,,24/09/2026 00:40
-c186c8d1-27f6-4849-8737-563cd6317f00,dream.market,premium,242,242,high,medium,5,namesilo,,,
+c186c8d1-27f6-4849-8737-563cd6317f00,dream.market,premium,207.2,207.2,high,medium,5,spaceship,,,28/09/2026 20:52
 d03fe47a-1f49-4217-8814-68fb38bb97cc,endogenous.market,available,44.49,44.49,medium,low,10,namesilo,,,17/08/2026 01:15
+aab0c1ba-4421-45e2-a462-d5f5706360f5,griffin.market,available,46.98,55.98,high,low,7,namecheap,,,29/09/2026 01:09
 ef093827-146f-4ff9-9213-78c1f87f19ba,robertson.market,available,44.49,44.49,high,low,9,namesilo,,,25/09/2026 09:45
 8cf161b8-3aea-4b06-a11e-f91f3707cd7c,jockstrap.market,available,46.98,55.98,medium,low,9,namecheap,,,20/09/2026 21:10
 4cb04836-f68b-496a-930e-9374df0ce9f8,munro.market,available,35.39,35.39,high,low,5,spaceship,,,27/09/2026 13:53
 e9ffc1e8-4dfb-4c9a-88e2-71f1ac3ebb15,woodsy.market,available,44.49,44.49,high,low,6,namesilo,,,06/08/2026 13:04
+cac4a940-6691-439f-a612-dc4ad05a5279,gop.market,available,44.49,44.49,high,low,3,namesilo,,,28/09/2026 09:54
 6e016979-fb3f-48d7-b7b5-7e0228b024c3,pinnacle.market,available,46.98,55.98,high,low,8,namecheap,,,24/08/2026 20:50
 d5cb2a8a-3cf2-4042-9a1a-5e4a3025c3e2,apathy.market,available,46.98,55.98,medium,low,6,namecheap,,,19/09/2026 16:17
 11343633-2f6f-4eaa-9c29-d9ee2a36d658,araneae.market,available,64.99,64.99,medium,low,7,name.com,,,20/09/2026 00:06
-12ffa96b-7ec3-4fde-a80c-cfec4c4d7b1d,daniel.market,available,55.98,,high,medium,6,namecheap,,,
+12ffa96b-7ec3-4fde-a80c-cfec4c4d7b1d,daniel.market,available,44.49,44.49,high,medium,6,namesilo,,,29/09/2026 03:26
 3901077a-f946-4b28-9581-ed1b15dafcdd,tennyson.market,available,44.49,44.49,medium,low,8,namesilo,,,18/09/2026 06:38
 2711c210-b086-4cda-b72e-62e9aa1d9843,cypher.market,available,,,high,medium,6,,,,
 91b2fc00-f765-43a0-8fdf-1d39f995cef3,incertain.market,available,44.49,44.49,medium,low,9,namesilo,,,22/08/2026 01:10
@@ -547,14 +592,16 @@ dc311650-b374-4976-845a-2827067472ad,augend.market,available,46.98,55.98,medium,
 2a0410d6-2d59-4194-b383-d6d453575573,hueless.market,available,44.49,44.49,medium,low,7,namesilo,,,21/08/2026 14:36
 efa087bc-8e23-4c46-81e3-a10bb48d9bb1,offroader.market,available,44.49,44.49,medium,low,10,namesilo,,,18/09/2026 09:00
 91ac934f-27d3-4e47-9af7-11944bacb291,teachable.market,available,44.49,44.49,high,low,9,namesilo,,,11/09/2026 09:34
+4a5730f8-11ca-4196-ae2d-34c286cc6b6c,fairview.market,available,35.39,35.39,medium,low,8,spaceship,,,28/09/2026 16:52
 38511cf1-4eae-477c-b7e4-0a884729b42f,ignescent.market,available,46.98,55.98,medium,low,9,namecheap,,,21/08/2026 18:22
 8a2856d1-4e35-4cf0-a5d1-63ac017e42aa,ruinous.market,available,44.49,44.49,medium,low,7,namesilo,,,10/08/2026 13:28
 8409d00a-5287-41d6-9965-5670852e331b,carlton.market,available,44.49,44.49,high,low,7,namesilo,,,25/09/2026 15:21
 28deb1a2-30fe-414a-87df-1a71a0de0ae8,clipboards.market,available,44.49,44.49,medium,low,10,namesilo,,,20/09/2026 11:59
 1a865c13-48a9-4fd0-b2bd-192e4fd493c0,females.market,available,46.98,55.98,medium,low,7,namecheap,,,18/09/2026 19:27
+59adb5ce-d108-4566-8b3b-e7ff18d1a75d,alec.market,available,46.98,55.98,high,low,4,namecheap,,,28/09/2026 16:21
 7602907c-ebd1-4bd9-a811-d2870dc3fa0c,backgrounds.market,available,44.49,44.49,medium,low,11,namesilo,,,20/09/2026 22:12
 b37914a1-ae87-40f9-a461-c5bc73a66532,scrubby.market,available,44.49,44.49,medium,low,7,namesilo,,,09/09/2026 23:39
-3d8104b7-d24e-4c35-a04b-e2a0a191515e,broadly.market,available,44.49,44.49,medium,low,7,namesilo,,,
+3d8104b7-d24e-4c35-a04b-e2a0a191515e,broadly.market,available,35.39,35.39,medium,low,7,spaceship,,,28/09/2026 13:32
 460b9332-14e8-45b2-8317-c1c2fb5c6411,unassured.market,available,44.49,44.49,medium,low,9,namesilo,,,12/09/2026 01:14
 15ab7e02-2eea-49d6-8801-2330ad7f9afd,clannish.market,available,44.49,44.49,medium,low,8,namesilo,,,12/08/2026 09:35
 d6bdd019-39b8-4752-b0ae-4707df71abc5,dated.market,available,64.99,64.99,medium,low,5,name.com,,,13/08/2026 18:40
@@ -571,17 +618,22 @@ e3140c45-adb2-453c-ac06-cf12ba5f77eb,xxxvii.market,available,44.49,44.49,medium,
 49bb0d0d-b7f2-4de4-bc14-71e78cc10d5c,stat.market,premium,500,,high,low,4,name.com,,,
 a51ca44a-c85b-44ec-b054-b00c0b73327b,bitterroot.market,available,44.49,44.49,medium,low,10,namesilo,,,23/09/2026 23:08
 8c99b060-80ae-43a7-b8a4-265a5b0e024b,blaster.market,available,44.49,44.49,high,low,7,namesilo,,,24/09/2026 04:22
+92de23bc-ed9f-4924-8aed-33f99ec4825a,torino.market,premium,109.53,218.86,high,low,6,porkbun,,,29/09/2026 02:19
 a0eb95db-1615-4f52-b5c7-ede82c39b866,browbeat.market,available,44.49,44.49,medium,low,8,namesilo,,,11/08/2026 08:53
 1d9c67a0-3eb3-4ef4-83f6-a74d1f60d6f7,oddish.market,available,44.49,44.49,low,low,6,namesilo,,,04/09/2026 00:50
 3f832170-4255-4606-b31a-051aab4d7df6,ferned.market,available,44.49,44.49,medium,low,6,namesilo,,,18/08/2026 01:58
 e4024fee-c912-4ed3-86ef-0543e13dee21,shuddering.market,available,44.49,44.49,medium,low,10,namesilo,,,10/09/2026 07:02
 a0314156-aa65-4558-836f-ac08c258c3ad,squawker.market,available,44.49,44.49,medium,low,8,namesilo,,,23/09/2026 06:50
 0996d78f-52c9-469b-8606-43c551f42f07,national.market,premium,1107,1107,high,medium,8,namesilo,,,25/09/2026 22:55
-8ddd9a9d-7551-4deb-97ce-15d495f055d2,strongly.market,available,44.49,44.49,high,low,8,namesilo,,,
+8ddd9a9d-7551-4deb-97ce-15d495f055d2,strongly.market,available,35.39,35.39,medium,low,8,spaceship,,,28/09/2026 16:33
 0d05b14e-a4ea-4a53-a2dc-480b7cf9a7c1,relevance.market,available,44.49,44.49,high,low,9,namesilo,,,
+b47df36f-8987-4ddd-a736-6c279cbbba48,ica.market,premium,62.3,62.3,high,low,3,spaceship,,,28/09/2026 16:04
+7700700e-9ccb-473c-b428-d797b850b701,quarterback.market,available,46.98,55.98,high,low,11,namecheap,,,28/09/2026 15:47
 dc83f5f6-c7bf-4028-a4ce-e4d8daf3c466,goldberg.market,available,46.98,55.98,high,low,8,namecheap,,,25/09/2026 06:35
 31e38686-85c6-4dd9-ae64-b149a685985f,ginger.market,premium,118.8,118.8,high,low,6,namesilo,,,18/08/2026 23:51
 61519876-96f0-47f1-bfef-2d0736903b06,turkish.market,premium,500,500,medium,low,7,name.com,,,11/09/2026 21:18
+59e2b7a5-c0ae-46a1-89de-cefd1261f7e2,princeton.market,available,34.2,34.2,high,low,9,cloudflare,,,28/09/2026 10:45
+c728ea6e-cb42-439c-9281-b87193af0c63,senate.market,available,34.2,34.2,medium,low,6,cloudflare,,,28/09/2026 10:53
 5652eec6-7cb3-4a8c-a8a3-b28769522816,brushed.market,available,44.49,44.49,high,low,7,namesilo,,,11/08/2026 06:58
 b449c62d-90e4-4e04-a2ab-4ddd7c8884df,sedative.market,available,44.49,44.49,high,low,8,namesilo,,,22/09/2026 10:55
 f65897d1-1038-40dd-9d13-afcc2fa16e8e,sweetish.market,available,44.49,44.49,medium,low,8,namesilo,,,11/09/2026 05:36
@@ -598,8 +650,10 @@ e2fe39f3-4c07-4b0f-aec3-a8e3e9e9a12e,ascendent.market,available,44.49,44.49,medi
 79a20178-bc3b-4ac2-853f-12d80120225c,wisdoms.market,available,46.98,55.98,medium,low,7,namecheap,,,21/09/2026 10:19
 94417b10-0613-49ee-b768-d95d9195daae,spf.market,available,44.49,44.49,high,low,3,namesilo,,,28/09/2026 05:21
 d0baf576-4abf-44a3-ba2b-6fa28b2e572f,unrecorded.market,available,44.49,44.49,medium,low,10,namesilo,,,24/08/2026 07:46
+edf880e0-42f0-42a3-b132-416dbc6f6ba9,reform.market,available,35.39,35.39,high,low,6,spaceship,,,28/09/2026 15:13
 6588998f-53a4-46b3-9f77-d7f8efe97e3d,pavlova.market,available,46.98,55.98,medium,low,7,namecheap,,,19/09/2026 10:01
 3253150b-c171-4747-b7e5-603e6f3cd670,asepsis.market,available,44.49,44.49,medium,low,7,namesilo,,,19/09/2026 15:02
+189d5875-47b1-4fb9-9b47-6df6ed4024f5,connecting.market,available,35.39,35.39,medium,low,10,spaceship,,,28/09/2026 22:52
 3b65ea25-35b9-4663-8116-06c9caf861d3,apus.market,available,44.49,44.49,medium,low,4,namesilo,,,19/09/2026 22:43
 92eb2895-6af9-41d1-8c36-8969f792bf6e,germicidal.market,available,44.49,44.49,medium,low,10,namesilo,,,08/08/2026 07:07
 f3755dc8-c8a5-43be-bef7-35fe3b7917b2,tubeless.market,available,46.98,55.98,medium,low,8,namecheap,,,11/09/2026 20:58
@@ -613,10 +667,12 @@ f96b5268-9179-4711-9b43-32df15560406,laudable.market,available,44.49,44.49,mediu
 63a074f2-6095-4e30-8fa2-1fefef923ec6,variations.market,available,46.98,55.98,medium,low,10,namecheap,,,18/09/2026 20:13
 bddfc524-6b28-436a-9221-13c3ff7379dc,arquebus.market,available,44.49,44.49,medium,low,8,namesilo,,,20/09/2026 08:40
 103dc619-c39a-4a2a-aa7c-4052e625687b,berith.market,available,46.98,55.98,medium,low,6,namecheap,,,23/09/2026 09:26
-af9529b8-91e8-47c3-b575-c13753ef286b,sincerely.market,available,44.49,44.49,high,low,9,namesilo,,,
+3f0f510e-b374-417b-83ab-6fae97f85fa7,gender.market,available,35.39,35.39,high,low,6,spaceship,,,28/09/2026 14:16
+af9529b8-91e8-47c3-b575-c13753ef286b,sincerely.market,available,36.6,36.6,high,low,9,dynadot,,,28/09/2026 16:38
 54a9d92f-1268-4526-90e0-fbf5a97a0228,costate.market,available,44.49,44.49,medium,low,7,namesilo,,,13/08/2026 03:06
 447ccf41-9e72-4cdf-b298-43026469ef04,berm.market,available,44.49,44.49,medium,low,4,namesilo,,,23/09/2026 09:41
 978d8b9c-b277-49c2-8ad2-0e56c92fff63,semirigid.market,available,44.49,44.49,medium,low,9,namesilo,,,10/09/2026 03:19
+61b99c6e-6992-415f-a333-5fc41c5e37c6,occasional.market,available,44.49,44.49,medium,low,10,namesilo,,,28/09/2026 11:16
 4a585dce-9256-4173-9c16-ed57bda8ac75,tiring.market,available,44.49,44.49,medium,low,6,namesilo,,,11/09/2026 16:24
 42457833-9ced-467d-a993-5a765567452c,sinners.market,available,44.49,44.49,medium,low,7,namesilo,,,
 9b80bffb-e0d8-4d81-95be-d1aedf8f2717,akhenaton.market,available,44.49,44.49,medium,low,9,namesilo,,,17/09/2026 23:57
@@ -625,6 +681,7 @@ af9529b8-91e8-47c3-b575-c13753ef286b,sincerely.market,available,44.49,44.49,high
 56049696-8e30-4e6a-ae0b-4ee7b72496b4,ammonite.market,available,44.49,44.49,high,low,8,namesilo,,,18/09/2026 22:08
 8353ea59-3bd9-4f35-8efb-a9a7d0293b9f,xxvii.market,available,44.49,44.49,medium,low,5,namesilo,,,
 bb5363aa-9402-4913-b8c0-76de849d179d,mcguire.market,available,44.49,44.49,high,low,7,namesilo,,,27/09/2026 08:49
+97569e72-e042-479e-b559-6db649ee6fc6,amateurs.market,available,35.39,35.39,medium,low,8,spaceship,,,29/09/2026 00:10
 1335ab32-6013-4074-9e7e-04a4cab9344c,lavoisier.market,available,44.49,44.49,medium,low,9,namesilo,,,19/09/2026 15:25
 121c09c7-26cb-4b35-88fd-e9c0a32ebd4d,antum.market,available,44.49,44.49,medium,low,5,namesilo,,,19/09/2026 15:47
 117aa06f-fc27-47f5-87fe-41f3f797e871,postal.market,resell,,,high,low,6,"DNSPod, Inc.",26/01/2024 15:15,26/01/2027 15:15,26/09/2026 08:16
@@ -661,11 +718,13 @@ ebd1956b-146a-43b3-b520-31abb38df7e7,aliment.market,available,46.98,55.98,medium
 9ab9d07a-146b-412d-bc65-3584ac6b3208,newsworthy.market,available,44.49,44.49,high,low,10,namesilo,,,03/09/2026 16:53
 8840f96c-9ea4-4f80-9718-88482a7146bc,syriac.market,available,44.49,44.49,high,low,6,namesilo,,,28/09/2026 03:24
 9c1c98bc-ec67-4a8d-88a4-c275730e4807,suitable.market,available,35.39,35.39,high,low,8,spaceship,,,28/09/2026 01:54
+77fa9799-b08b-4205-962d-83cc79e54346,escaping.market,available,35.39,35.39,high,low,8,spaceship,,,28/09/2026 21:14
 00a7ef36-23d5-4425-b356-100c3ca25fc3,warwick.market,available,44.49,44.49,high,low,7,namesilo,,,25/09/2026 05:09
 325be0dc-abce-4d80-83a4-873c6a51c19e,chic.market,premium,242,242,high,low,4,namesilo,,,12/08/2026 04:40
 adfed2e7-9909-45b3-9320-5de8c6a1bdb2,forty.market,premium,118.8,118.8,high,low,5,namesilo,,,
 248e69f6-a27e-475f-8716-918df06138de,amorous.market,available,44.49,44.49,high,low,7,namesilo,,,22/09/2026 03:25
 8e7eac6b-cc92-47bd-b35a-3592e26165ce,tate.market,available,46.98,55.98,high,low,4,namecheap,,,18/09/2026 10:50
+e9cc9dd0-4911-48ee-93f9-6910afa6e2fe,precinct.market,available,35.53,35.53,medium,low,8,porkbun,,,28/09/2026 15:05
 c7eef6cf-21c0-4416-97d6-6b0ac8961a62,dusk.market,available,46.98,55.98,high,low,4,namecheap,,,11/09/2026 21:39
 5a454b02-d0ef-4874-9da2-b4f9f7f3314f,elsa.market,available,36.6,36.6,high,low,4,dynadot,,,28/09/2026 08:37
 be7a025d-5123-41a5-a596-a69cf049a99e,valentine.market,available,44.49,44.49,high,low,9,namesilo,,,26/09/2026 00:29
@@ -680,6 +739,7 @@ f512eae8-12e5-4b31-8c75-58495d4a22fc,catalogue.market,premium,118.8,118.8,high,l
 9157e935-498d-4078-9848-4f232f6420be,fulgid.market,available,44.49,44.49,medium,low,6,namesilo,,,
 d0741cb5-9ae7-47cb-a1b0-62b0678d7c63,blackpool.market,premium,118.8,118.8,medium,low,9,namesilo,,,24/09/2026 02:57
 23795560-ba81-4c41-83fa-5215a519c456,ackack.market,available,44.49,44.49,medium,low,7,namesilo,,,
+1d9543cd-daa8-40fe-b1e1-269e897ee7ad,regain.market,available,35.39,35.39,high,low,6,spaceship,,,29/09/2026 02:45
 2ab2437c-c6e6-4cb1-9103-3eac8278e7f1,permanently.market,available,44.49,44.49,medium,low,11,namesilo,,,28/09/2026 07:19
 6e6fb4d7-6fb0-4c13-80a3-053bb2fd62d5,molar.market,available,44.49,44.49,medium,low,5,namesilo,,,25/08/2026 03:38
 f2185876-9c21-4cd6-85e4-0355e4a91855,shy.market,available,44.49,44.49,high,low,3,namesilo,,,27/09/2026 21:35
@@ -703,25 +763,30 @@ dfe240b1-98da-4e5f-b4af-a025e04659b5,doubting.market,available,44.49,44.49,mediu
 5d47c5b2-640f-4001-affe-7564f4d8b6c0,volkswagen.market,available,44.49,44.49,high,low,10,namesilo,,,
 b0130410-7753-49cf-be61-923ce455e95b,whenever.market,available,44.49,44.49,medium,low,8,namesilo,,,
 bbac349a-ade1-4a17-8ed6-65d25d821946,occidental.market,available,44.49,44.49,medium,low,10,namesilo,,,21/08/2026 07:25
+60e4279d-151e-4a0c-93f9-458c1eb512eb,acl.market,premium,71.4,71.4,high,low,3,namesilo,,,29/09/2026 03:18
 0de0769d-a277-46a2-adcf-4e4bb5fb33ff,impure.market,available,44.49,44.49,medium,low,6,namesilo,,,21/08/2026 23:30
 cf035339-6c75-482b-8a04-5e6cbcefbfad,venturous.market,available,64.99,64.99,medium,low,9,name.com,,,13/08/2026 17:49
 24dea6bb-4352-4ada-867a-738d776cb361,earhart.market,available,46.98,55.98,medium,low,7,namecheap,,,18/09/2026 18:17
 d0debcac-98c1-402b-9060-29196cc17c2b,preceding.market,available,44.49,44.49,medium,low,9,namesilo,,,
 e4c145c4-b10a-4a25-aa17-37f162f2d61c,partitioned.market,available,44.49,44.49,low,low,11,namesilo,,,18/09/2026 12:14
 70ca8771-c3cf-423d-a08f-877cb3b43580,coeliac.market,available,44.49,44.49,medium,low,7,namesilo,,,12/08/2026 15:21
+5132de5b-cb8f-461a-bfa9-ea5fb0a9fbfe,hms.market,premium,,,medium,low,3,,,,28/09/2026 12:51
 edf4d132-88e0-4c13-8f90-99b52a010161,antic.market,available,44.49,44.49,high,low,5,namesilo,,,
 3686ab7c-55e4-4c2a-be19-6088f34869c5,caloric.market,available,44.49,44.49,medium,low,7,namesilo,,,11/08/2026 15:07
 698f82e4-0d46-4776-bd97-9b57f687e2c8,incipient.market,available,44.49,44.49,medium,low,9,namesilo,,,22/08/2026 01:14
 ca4fdda1-85f5-495b-8e86-e8079cb82fe2,asthmatic.market,available,44.49,44.49,medium,low,9,namesilo,,,22/09/2026 10:23
 1b214426-abed-4226-a81a-61ca12319491,rimed.market,available,44.49,44.49,medium,low,5,namesilo,,,09/09/2026 17:39
+df2a2e6c-8d37-42ac-863e-782fb5c75c1d,decoration.market,available,35.39,35.39,high,low,10,spaceship,,,28/09/2026 18:55
 9be8de61-ad55-4167-9ceb-372a375ae6df,bronze.market,available,44.49,44.49,high,low,6,namesilo,,,23/09/2026 09:58
+2952397f-f9db-448c-afdb-708fce73136f,sacrifices.market,available,46.98,55.98,low,low,10,namecheap,,,28/09/2026 17:47
 09796e40-39ba-48d5-bebb-bd0e25200d10,suppertime.market,available,44.49,44.49,high,low,10,namesilo,,,24/09/2026 22:23
 d5cccafc-8dbd-4022-9bc2-a9beeaf4ef38,vesture.market,available,44.49,44.49,medium,low,7,namesilo,,,13/09/2026 09:02
-d34d7d59-29b1-4af2-a8f6-fe4338bf5e2b,dose.market,available,44.49,44.49,high,low,4,namesilo,,,25/09/2026 09:32
+d34d7d59-29b1-4af2-a8f6-fe4338bf5e2b,dose.market,available,35.39,35.39,high,low,4,spaceship,,,29/09/2026 00:13
 0365a756-4f73-4b7a-a40e-8fe8746010f3,alfredo.market,available,35.39,35.39,high,low,7,spaceship,,,28/09/2026 04:35
 7810c43f-a1f3-4660-87c1-6bd38aeebfe6,jarvis.market,resell,,,high,medium,6,,,,27/09/2026 01:43
 67402c2c-4bb4-45ef-88fb-42fe60c7491b,overseas.market,premium,512,512,high,medium,8,namesilo,,,21/09/2026 14:34
 bbaf2406-fa6b-4968-a0a6-c1983d8c2968,chore.market,available,44.49,44.49,high,low,5,namesilo,,,
+c9324278-48cb-42a0-90ff-fbfefdbce23f,symbols.market,available,34.2,34.2,medium,low,7,cloudflare,,,29/09/2026 04:46
 a1616cb8-9d12-410a-9d5b-4210f6d36ee4,moresque.market,available,44.49,44.49,medium,low,8,namesilo,,,25/08/2026 06:01
 d317f8dc-a034-4874-87b2-9b7418ad3914,strips.market,available,44.49,44.49,medium,low,6,namesilo,,,20/09/2026 02:09
 bf024a03-6bcd-4f91-9571-9e837aad3f6e,slenderize.market,available,44.49,44.49,medium,low,10,namesilo,,,10/09/2026 10:53
@@ -729,7 +794,7 @@ bf024a03-6bcd-4f91-9571-9e837aad3f6e,slenderize.market,available,44.49,44.49,med
 92c44326-ec8e-4f26-a513-3450b271bb7e,ape.market,premium,500,500,high,low,3,name.com,,,
 271f432f-a449-4c1e-9cf6-aef9c1190604,onslaught.market,available,44.49,44.49,medium,low,9,namesilo,,,21/09/2026 01:06
 07ff6605-cf35-4de7-be5e-cb29a1ea7a8c,adultery.market,available,44.49,44.49,medium,low,8,namesilo,,,17/09/2026 10:25
-e5dd6f76-ccee-4eee-90f6-b751568b615b,labour.market,premium,3450,3450,high,low,6,namesilo,,,25/09/2026 11:28
+e5dd6f76-ccee-4eee-90f6-b751568b615b,labour.market,premium,3450,3450,medium,low,6,namesilo,,,29/09/2026 04:26
 5d2dd05a-3b4e-40e2-b5b6-d80f4319bf4d,blitt.market,available,44.49,44.49,medium,low,5,namesilo,,,21/09/2026 14:13
 467a258b-e313-4c75-ace8-b0191126b7f3,thorny.market,available,46.98,55.98,medium,low,6,namecheap,,,08/08/2026 17:55
 215e54df-785c-46ce-973b-3e2b14b51d72,hosting.market,premium,2587.7,2587.7,high,medium,7,spaceship,,,28/09/2026 02:41
@@ -744,7 +809,8 @@ aa9a8a0e-1cf3-43c8-a582-ee3c9a358d6b,polyglot.market,available,44.49,44.49,high,
 233a1e8d-4263-4a14-9c67-161df3c51c3d,damage.market,available,44.49,44.49,high,low,6,namesilo,,,25/09/2026 04:36
 15301196-5271-40ac-b734-86bda9377317,baraka.market,available,46.98,55.98,high,low,6,namecheap,,,22/09/2026 04:07
 b7dc9869-9211-4745-b576-5abd4f7dc47e,shadowed.market,available,44.49,44.49,medium,low,8,namesilo,,,10/09/2026 05:25
-211b128e-b021-4504-8786-6bfcd9fdcd1c,deposit.market,premium,520,520,high,low,7,namecheap,,,
+211b128e-b021-4504-8786-6bfcd9fdcd1c,deposit.market,premium,512,512,high,low,7,namesilo,,,28/09/2026 20:39
+6a4f780b-1a67-4d77-9587-fe350fb06832,readings.market,available,35.39,35.39,medium,low,8,spaceship,,,28/09/2026 23:42
 98ad0dc0-ab08-4a28-8c45-1e2a466f5c52,coffeemakers.market,premium,520,520,medium,low,12,namecheap,,,21/09/2026 01:27
 c09fb7b6-2e37-497d-8ebc-c4b5a9571e1d,accusative.market,available,44.49,44.49,high,low,10,namesilo,,,
 1984685e-4fa1-4f07-8495-0449976b867e,economical.market,available,44.49,44.49,high,low,10,namesilo,,,24/09/2026 13:25
@@ -756,16 +822,18 @@ c9b1227f-0738-4ba0-9417-b5afee5ee179,disrepair.market,available,44.49,44.49,medi
 4be8852d-8d95-4a06-977e-b99117c6f8aa,payoff.market,available,44.49,44.49,high,low,7,namesilo,,,
 f4c32473-02c7-4601-b7fb-2143ed876222,defiantly.market,available,44.49,44.49,medium,low,9,namesilo,,,14/09/2026 08:33
 ed7f67f4-3624-4ac8-8cdf-877ce107283c,servants.market,available,44.49,44.49,medium,low,8,namesilo,,,18/09/2026 01:39
-be8e7786-3ebf-4f2f-8cd3-f0726e2a2ee9,dong.market,available,55.98,,high,low,4,namecheap,,,
-2028856d-ca08-491b-bf67-a88456509225,athletics.market,premium,128.7,128.7,high,medium,9,namecheap,,,
+be8e7786-3ebf-4f2f-8cd3-f0726e2a2ee9,dong.market,available,35.39,35.39,medium,low,4,spaceship,,,28/09/2026 14:32
+2028856d-ca08-491b-bf67-a88456509225,athletics.market,premium,102.67,102.67,high,medium,9,spaceship,,,28/09/2026 22:59
 8c6cb65b-3324-449b-a4dd-9d64588be7e2,barberry.market,available,44.49,44.49,medium,low,8,namesilo,,,22/09/2026 04:51
 3760d48f-30fa-41cf-ac40-c28a920267dc,pukka.market,available,44.49,44.49,medium,low,5,namesilo,,,09/09/2026 05:24
 7f879b0c-34ea-45eb-afee-cb6dd7cf74c5,wand.market,available,44.49,44.49,high,low,4,namesilo,,,22/09/2026 14:13
+4571d94e-0b47-4792-aaf8-ef7709b39c25,dora.market,available,44.49,44.49,high,low,4,namesilo,,,29/09/2026 03:41
 331c0050-0fbb-4077-9590-8c43a9e325a8,eliot.market,available,44.49,44.49,high,low,5,namesilo,,,25/09/2026 05:27
 2bb39951-2d16-479c-ad56-03364e818282,mussolini.market,available,44.49,44.49,medium,low,9,namesilo,,,23/09/2026 08:12
 2c83d1ff-ada2-418b-9829-4e5f044924f4,claremont.market,available,44.49,44.49,high,low,9,namesilo,,,27/09/2026 08:22
 e99eba48-2571-433c-aa35-391c7cf4f203,ablution.market,available,44.49,44.49,medium,low,8,namesilo,,,16/09/2026 16:14
 668ba628-4e31-4a6a-a7bc-595010450344,endurance.market,available,44.49,44.49,high,low,9,namesilo,,,
+e9227f80-2dd3-45de-8053-e500fb277dd0,fluids.market,available,44.49,44.49,medium,low,6,namesilo,,,28/09/2026 17:17
 5d73cf49-dc8b-4627-a3c0-8715357db6f6,bio.market,premium,1107,1107,high,medium,3,namesilo,,,
 d18cf5e1-3473-4040-bb0f-c7a7281586f5,calvinist.market,available,44.49,44.49,medium,low,9,namesilo,,,11/08/2026 15:24
 6f60d1e8-4da5-4bc0-872c-d29ae1bd7f55,warn.market,available,44.49,44.49,high,low,4,namesilo,,,28/09/2026 03:18
@@ -782,6 +850,7 @@ b81079d4-c179-4c10-a127-f34915005b5f,indoors.market,available,44.49,44.49,high,l
 61773dd6-a3a7-4bac-aa64-5b274fc06ab2,measures.market,available,35.39,35.39,low,low,8,spaceship,,,28/09/2026 08:34
 846f6543-f9d2-4b37-92f1-1b0e85aa72cc,sear.market,available,46.98,55.98,medium,low,4,namecheap,,,14/08/2026 19:05
 6f998886-fe63-482f-8362-5c76ba98755a,threefold.market,available,44.49,44.49,high,low,9,namesilo,,,14/08/2026 16:42
+3130987b-8672-4b7c-b2a5-b15ee5634da0,politically.market,available,44.49,44.49,medium,low,11,namesilo,,,28/09/2026 11:12
 6f3b6bf8-80b2-4529-80b0-d269cefe09e2,eiffel.market,available,44.49,44.49,medium,low,6,namesilo,,,18/09/2026 05:59
 93e0ad38-ef9d-4e12-a096-8addc0f25629,desultory.market,available,44.49,44.49,medium,low,9,namesilo,,,14/08/2026 04:36
 837594bd-54b0-4bb2-abc7-0f6567c4e2b3,confines.market,available,44.49,44.49,high,low,8,namesilo,,,24/09/2026 17:13
@@ -808,18 +877,21 @@ cdd0ed03-3e70-4f11-b715-adb46aeda87c,acquired.market,available,44.49,44.49,high,
 523481fd-249e-4305-8bac-719f54e85f19,belittling.market,available,44.49,44.49,medium,low,10,namesilo,,,09/08/2026 13:10
 d8c66c42-640f-4cbb-bb9e-ccdd462ed68c,stands.market,available,44.49,44.49,medium,low,6,namesilo,,,
 9c6705a7-5233-4d1a-ad26-9776f41f2fcf,patterned.market,available,44.49,44.49,medium,low,9,namesilo,,,08/09/2026 10:49
+9b9c5048-e17c-4fed-92ee-f5cd8f5ce1f3,conquered.market,available,36.6,36.6,medium,low,9,dynadot,,,28/09/2026 23:05
 ba3499a3-79ee-4845-be2f-6d67e1cc18d2,stevie.market,available,36.6,36.6,high,low,6,dynadot,,,28/09/2026 07:58
 a0405ec7-6818-4990-9427-c12a60a08b47,bedding.market,premium,260,260,high,low,7,namecheap,,,22/09/2026 22:50
 c16c4a41-8877-4a0c-9301-899a5122a64d,batik.market,available,44.49,44.49,high,low,5,namesilo,,,22/09/2026 14:02
 f1c34241-9fe7-49cd-9ae6-63836ba7c5f1,tangerine.market,premium,118.8,118.8,high,low,9,namesilo,,,11/09/2026 07:55
 35c31b66-1a5f-4147-a43e-38da5ad4c184,lister.market,available,44.49,44.49,high,low,6,namesilo,,,22/09/2026 07:14
 5853007d-cc45-4748-8307-cf33676f8453,danville.market,available,46.98,55.98,medium,low,8,namecheap,,,28/09/2026 04:20
-551d0ea8-fed3-4ff5-921d-e4195a657f31,bank.market,premium,512,512,high,low,4,namesilo,,,24/09/2026 07:00
+551d0ea8-fed3-4ff5-921d-e4195a657f31,bank.market,premium,512,512,high,medium,4,namesilo,,,29/09/2026 01:00
 3491acc1-a648-4634-a22e-f12f4e099832,aug.market,premium,118.8,118.8,high,low,3,namesilo,,,07/08/2026 17:10
+974402ad-9674-4238-9350-90d6e974a8ff,idf.market,available,44.49,44.49,medium,low,3,namesilo,,,28/09/2026 14:30
 2d3b9a05-10b2-4de2-8772-ccb7c79507d0,acervulus.market,available,44.49,44.49,medium,low,9,namesilo,,,16/09/2026 23:44
 fc68e107-a7a0-46c1-a6ae-9c4bcdc28708,kfc.market,available,46.98,55.98,high,low,3,namecheap,,,16/09/2026 23:46
 c9688b64-03ee-4758-bf77-80c113c2a148,accepted.market,available,44.49,44.49,high,low,8,namesilo,,,21/09/2026 15:25
 bb150cfb-d33f-47af-8c03-16894769598e,password.market,available,44.49,44.49,medium,low,8,namesilo,,,28/09/2026 04:22
+6d318ac4-61a1-4642-b24d-6f34ea5bdb0d,genevieve.market,available,44.49,44.49,medium,low,9,namesilo,,,28/09/2026 16:45
 c549272c-c710-4671-95bf-6e34aec5b7d2,denise.market,available,44.49,44.49,medium,low,6,namesilo,,,25/09/2026 14:19
 3b326cdb-cc04-4b28-9428-ab419b5ff87c,followed.market,available,44.49,44.49,medium,low,8,namesilo,,,25/09/2026 17:12
 41ff3eec-269a-4714-871d-6445dba01ce4,theyre.market,available,44.49,44.49,medium,low,6,namesilo,,,
@@ -848,6 +920,7 @@ c9b53e01-eb8c-41e0-a74b-cdf023612d0c,cannibal.market,available,46.98,55.98,mediu
 1e7917da-4110-4030-82bd-07ca9b31b4dd,macmillan.market,available,44.49,44.49,high,low,9,namesilo,,,25/09/2026 12:59
 0e63980c-b7c1-4fc1-8641-7e1403e4fe99,tornados.market,available,46.98,55.98,medium,low,8,namecheap,,,16/09/2026 14:12
 0745ed65-f3b7-4449-ac98-c2559c40c186,middle.market,premium,520,520,high,low,6,namecheap,,,23/09/2026 13:24
+be952ba3-02a0-4812-bde7-5884ff2de054,dumont.market,available,44.49,44.49,medium,low,6,namesilo,,,28/09/2026 11:42
 f4ae3c90-a37e-4d0a-a7b5-6cbaafcf16aa,firmly.market,available,44.49,44.49,high,low,6,namesilo,,,19/09/2026 17:07
 4505dfed-bca5-4300-82ee-79b01757beaa,dogmatism.market,available,44.49,44.49,medium,low,9,namesilo,,,23/09/2026 15:23
 bc53b730-455a-46d9-83bf-9f7197be5a40,agrostemma.market,available,46.98,55.98,medium,low,10,namecheap,,,17/09/2026 19:51
@@ -878,6 +951,7 @@ faa12c8d-807a-4ffc-ae38-041c0906a1eb,cops.market,available,44.49,44.49,high,low,
 755c3c33-7520-4422-868d-bf0d11820de8,catechu.market,available,46.98,55.98,medium,low,7,namecheap,,,16/09/2026 20:04
 c8c3fda7-d444-4bb5-b100-df3f25b0c04b,buttermilk.market,available,46.98,55.98,high,low,10,namecheap,,,24/09/2026 11:20
 7f000d05-1dc9-4480-bf17-213b5e9cef55,cashew.market,available,44.49,44.49,high,low,6,namesilo,,,19/09/2026 01:00
+3ff50a1c-e592-4b06-aff8-dc49b68cbcf3,churches.market,available,34.2,34.2,medium,low,8,cloudflare,,,28/09/2026 23:19
 4e6ec6ba-4539-4543-b849-ef4c0c6ab2e3,superhero.market,available,46.98,55.98,high,low,9,namecheap,,,16/09/2026 20:24
 df4cd6cd-6cd3-47ae-b457-f5717118a2c3,francium.market,available,46.98,55.98,medium,low,8,namecheap,,,20/09/2026 23:59
 f327b1f9-d958-4d23-ad11-cbca89ae71e1,uttermost.market,available,44.49,44.49,high,low,9,namesilo,,,17/08/2026 22:44
@@ -894,8 +968,10 @@ c51948ef-d2b9-4496-b0f2-fc8b84ee93c2,poured.market,available,44.49,44.49,medium,
 b18b1d2c-d202-4421-9922-4dbc3baa80b4,antipope.market,available,46.98,55.98,medium,low,8,namecheap,,,19/09/2026 15:00
 75271466-5f52-45f2-bc87-9929c76431c9,sporty.market,available,44.49,44.49,high,low,6,namesilo,,,10/09/2026 16:35
 35048154-a207-4b40-8dcf-44962a20d469,execution.market,available,,,high,low,9,,,,
+fc6f8612-f63f-4b67-97f4-c7dcf39d1da4,marley.market,available,34.2,34.2,medium,low,6,cloudflare,,,29/09/2026 00:11
 09d09128-061d-4eed-8839-889d34616bcf,operose.market,available,44.49,44.49,medium,low,7,namesilo,,,06/08/2026 17:05
 bee5056c-8184-403c-9879-3e10f91c0427,dominate.market,premium,242,242,high,low,8,namesilo,,,16/09/2026 01:33
+90748f16-603e-48b1-948f-b8b5c6131e2f,shandong.market,available,34.2,34.2,medium,low,8,cloudflare,,,29/09/2026 03:52
 90bb9e1f-7140-4254-89c4-76e4af533965,gabonese.market,available,46.98,55.98,medium,low,8,namecheap,,,18/08/2026 19:24
 ea220873-c5e7-400b-bd2b-b391421b4b19,ismaili.market,available,44.49,44.49,high,low,7,namesilo,,,22/08/2026 10:53
 087510ec-0d2b-4711-adaa-a49bd69a2be7,ocellated.market,available,44.49,44.49,medium,low,9,namesilo,,,04/09/2026 00:29
@@ -914,88 +990,12 @@ b099a44e-3516-4924-ab96-e77462d4b04b,lasting.market,available,44.49,44.49,high,l
 82e486f3-83f3-4987-931d-dd858e91fe44,plaguey.market,available,44.49,44.49,medium,low,7,namesilo,,,
 0e2c28b9-9d29-4842-8b77-2abf71c42cae,heartbeat.market,available,44.49,44.49,high,low,9,namesilo,,,22/08/2026 07:28
 3381cbbd-eeac-4489-98ba-dd30bd2b2d63,lisbon.market,premium,118.8,118.8,high,low,6,namesilo,,,
-be10dc92-a7ac-4963-814a-d98feb6c27a1,opera.market,premium,260,260,high,low,5,namecheap,,,25/09/2026 02:37
+be10dc92-a7ac-4963-814a-d98feb6c27a1,opera.market,premium,242,242,high,low,5,namesilo,,,28/09/2026 10:47
 fec243c1-2f2c-4226-a6ad-6a3757f06d60,ceaseless.market,available,44.49,44.49,medium,low,9,namesilo,,,11/08/2026 23:01
 82546c91-4ee6-4891-b869-d9c9f235e849,preparing.market,available,44.49,44.49,high,low,9,namesilo,,,27/09/2026 06:40
 e7facc56-fe02-4abc-b004-683611487d79,gestural.market,available,44.49,44.49,medium,low,8,namesilo,,,18/08/2026 22:57
 d166c2c1-573e-41e3-9de4-d46ce63d38d3,ameba.market,available,44.49,44.49,medium,low,5,namesilo,,,18/09/2026 17:40
 590c5ff3-473f-4993-8bcb-d8a7e42452b0,karachi.market,available,35.39,35.39,high,low,7,spaceship,,,28/09/2026 02:13
-90e92fd0-fedd-44c3-9624-c54644b163ff,deliver.market,available,44.49,44.49,high,low,7,namesilo,,,
+90e92fd0-fedd-44c3-9624-c54644b163ff,deliver.market,available,35.53,35.53,high,low,7,porkbun,,,29/09/2026 02:52
 241e1cfb-860a-4dc5-b176-eb7f44ca8fbe,quash.market,available,44.49,44.49,medium,low,5,namesilo,,,13/09/2026 06:42
 ac131003-a8b0-4154-8b91-d70a950295b0,rehearsal.market,available,44.49,44.49,high,low,9,namesilo,,,27/09/2026 03:47
-8d936c4d-cd5c-4daa-99a3-12d1c16b2e77,panther.market,resell,,,high,low,7,"Xiamen ChinaSource Internet Service Co., Ltd",21/03/2022 17:00,21/03/2027 17:00,26/09/2026 08:01
-c0a7c0a0-965d-4551-b894-4d7e13feeb31,nestling.market,available,44.49,44.49,high,low,8,namesilo,,,25/08/2026 00:18
-b3f6c3b7-5e48-4478-80cd-56418229e432,diversity.market,available,44.49,44.49,high,low,9,namesilo,,,
-0bac6388-f8ea-4985-af47-a8fa0491b57c,nosy.market,available,44.49,44.49,medium,low,4,namesilo,,,03/09/2026 21:48
-5ccf1287-74d6-4b5b-96ad-9c9d7136a6e6,anasazi.market,available,44.49,44.49,medium,low,7,namesilo,,,19/09/2026 03:16
-95244ce0-3982-42c1-8544-524239ee548f,lagger.market,available,44.49,44.49,medium,low,6,namesilo,,,22/08/2026 18:42
-d2721718-794a-462c-a32c-6b9b1e7e3955,fiduciary.market,available,44.49,44.49,high,low,9,namesilo,,,18/08/2026 03:39
-c68537ce-db46-40c0-b939-549b0763117d,bilberry.market,available,44.49,44.49,medium,low,8,namesilo,,,23/09/2026 15:37
-63b5f55d-0776-4783-b11c-99dd7dc4cd28,archeology.market,available,44.49,44.49,medium,low,10,namesilo,,,20/09/2026 01:43
-131572cf-e858-46d3-8ab4-6e861bd6ebf4,algid.market,available,44.49,44.49,medium,low,5,namesilo,,,
-cb203d9a-d1ef-48ec-8991-6fe9d935741a,asphyxia.market,available,44.49,44.49,medium,low,8,namesilo,,,20/09/2026 15:10
-c079f475-5604-4bc1-87e0-8aa275e5b3ad,stopped.market,available,34.2,34.2,high,low,7,cloudflare,,,28/09/2026 01:05
-6be85da6-2f14-4823-b04f-3128a0b04507,appointed.market,available,44.49,44.49,medium,low,9,namesilo,,,06/08/2026 07:21
-4acc71a4-d247-4f5f-a593-41e461fc1934,somesing.market,available,55.98,,medium,low,8,namecheap,,,
-ddd8f225-d9b5-4382-bd71-079f43cac6c7,corpulence.market,available,44.49,44.49,medium,low,10,namesilo,,,04/09/2026 22:00
-820b0ae8-3298-4ad1-8d4f-fdac568edaeb,anglophobe.market,available,46.98,55.98,medium,low,10,namecheap,,,19/09/2026 06:55
-e81586de-8032-4e3d-aa5f-1e78f9f0e128,roman.market,available,44.49,44.49,high,low,5,namesilo,,,27/09/2026 02:43
-f99bae31-04b2-4adc-b841-c5b3ad787391,centesimal.market,available,44.49,44.49,medium,low,10,namesilo,,,
-5b6ca14b-aa4b-451b-b014-b53877b5f900,lxxxii.market,available,44.49,44.49,medium,low,6,namesilo,,,
-b942c2cc-7e21-46fc-936a-5c530644820e,rigged.market,available,44.49,44.49,medium,low,6,namesilo,,,09/09/2026 17:25
-ccc28b04-fbd9-4b9a-a535-9685d7dd362f,liz.market,premium,118.8,118.8,high,low,3,namesilo,,,25/09/2026 14:24
-8d52de3b-f40a-47e2-b70d-aea52b37d0aa,hyaloid.market,available,44.49,44.49,medium,low,7,namesilo,,,21/08/2026 16:08
-45d8ee4e-3b8d-41d9-804f-6355add741b2,parental.market,available,44.49,44.49,high,low,8,namesilo,,,08/09/2026 01:14
-fe312005-9ebd-45f5-89b3-7d1e20f24a55,arapaho.market,available,44.49,44.49,medium,low,7,namesilo,,,20/09/2026 00:08
-3fb0df41-4ca8-46cf-9105-d5b827a8f27b,portend.market,available,44.49,44.49,medium,low,7,namesilo,,,21/09/2026 03:29
-c0fd544d-dde4-4a96-be5e-674e47c3716e,prying.market,available,44.49,44.49,medium,low,6,namesilo,,,03/09/2026 21:52
-943d19aa-18f1-409d-a53e-b277869d502d,formative.market,available,44.49,44.49,high,low,9,namesilo,,,18/08/2026 12:07
-e00d8e3d-2dac-4114-9f94-bf9f3bb55a0b,robin.market,available,44.49,44.49,high,low,5,namesilo,,,
-e2fd480a-91c7-44ae-a1ec-134112ac30be,xxiii.market,available,44.49,44.49,medium,low,5,namesilo,,,
-a1373ea1-d85c-4668-9d30-cb6efe05ac64,botanical.market,available,44.49,44.49,high,low,9,namesilo,,,10/08/2026 20:47
-b44c7b25-c7ef-4787-8988-633ab39fc658,precast.market,available,44.49,44.49,high,low,7,namesilo,,,16/09/2026 01:12
-0fdf1800-7897-4456-9dc5-a07e2909c703,buster.market,available,44.49,44.49,high,low,6,namesilo,,,
-bf197079-8343-4fd1-bc8b-783bc6c89d71,fabricated.market,available,46.98,55.98,high,low,10,namecheap,,,17/08/2026 20:15
-e0edc112-3796-4e91-8684-d4ce537f0b7a,expedition.market,available,44.49,44.49,high,low,10,namesilo,,,25/09/2026 09:51
-2c5714d3-f212-4a4b-8a3f-46a96d35cbc1,disability.market,available,44.49,44.49,high,low,10,namesilo,,,24/09/2026 22:26
-e1dcfe07-7194-4153-aab3-22e58674bda9,blogs.market,premium,242,242,medium,low,5,namesilo,,,20/09/2026 05:52
-90105379-90ea-4e6e-89ad-09a5c7ba3a66,february.market,available,44.49,44.49,high,low,8,namesilo,,,
-18d57f54-cba0-40c5-a379-b12697766d52,disconnect.market,available,44.49,44.49,high,low,10,namesilo,,,
-ab95e76c-dbd8-4ce9-afe3-39b62019a6f5,mistress.market,available,34.2,34.2,high,low,8,cloudflare,,,27/09/2026 14:35
-c39fb086-88e2-4d62-b5ff-89b1f3a37538,potassium.market,available,44.49,44.49,high,low,9,namesilo,,,20/09/2026 22:30
-9ff08217-bc86-43c9-8122-5b024671a20c,frederic.market,available,44.49,44.49,high,low,8,namesilo,,,25/09/2026 15:15
-bf5b0bcc-18eb-40e7-8152-1cb4feacfe81,categorically.market,available,44.49,44.49,medium,low,13,namesilo,,,
-d85138bf-c09c-42a3-9540-485ca63227b0,blowhard.market,available,44.49,44.49,medium,low,8,namesilo,,,11/08/2026 01:19
-b34e7961-59a3-4be8-b7fb-ad61b97746b2,racine.market,available,44.49,44.49,high,low,6,namesilo,,,28/09/2026 02:12
-3650d2db-ca77-4af2-b1ae-0e8231e9f877,laboured.market,available,44.49,44.49,medium,low,8,namesilo,,,22/08/2026 17:40
-69fc922e-6d30-43d1-86d3-8415347ea7a4,mixture.market,available,46.98,55.98,high,low,7,namecheap,,,25/09/2026 21:57
-28ed9055-5cc4-4290-a0ce-1dac32f2ecf6,lawyers.market,premium,260,260,medium,low,7,namecheap,,,25/09/2026 20:58
-ffac87ae-34f6-4845-a757-af4c7094e14c,bot.market,resell,,,high,medium,3,"GoDaddy.com, LLC",25/02/2026 16:12,25/02/2027 16:12,28/09/2026 04:10
-084de714-d5f1-4ff3-ab38-53e9796207e9,postbox.market,available,44.49,44.49,high,low,8,namesilo,,,
-11ff3017-3f15-4065-bcb6-a9a7ec9195f9,kitschy.market,available,44.49,44.49,medium,low,7,namesilo,,,09/08/2026 00:53
-732d42ae-5c3e-4094-ab27-a77137d480b7,arsenic.market,available,46.98,55.98,medium,low,7,namecheap,,,13/09/2026 21:07
-70e50f7a-db44-4b81-97d3-4426acaea790,picking.market,available,46.98,55.98,high,low,7,namecheap,,,25/09/2026 09:58
-a3499cd0-2013-463b-a531-727b35988390,indate.market,available,44.49,44.49,medium,low,7,namesilo,,,
-d29c4dd0-c095-4765-a766-df523dd114c9,dumas.market,available,44.49,44.49,medium,low,5,namesilo,,,18/09/2026 05:57
-3c563ea9-b9a5-4865-890d-bea31bd9eb76,moran.market,available,44.49,44.49,high,low,5,namesilo,,,25/09/2026 14:09
-2e9859d9-63f9-454e-8db7-1865e629e84b,eleanor.market,available,34.2,34.2,high,low,7,cloudflare,,,28/09/2026 03:53
-4d710818-f30f-4967-a8b2-74a912e3e82a,judicial.market,available,44.49,44.49,high,low,8,namesilo,,,22/08/2026 14:14
-8dc95ec1-400c-42ea-9010-bbf232f65243,meters.market,available,44.49,44.49,medium,low,6,namesilo,,,28/09/2026 05:01
-5e719d71-a870-4ef9-9f50-3ffe0e0675ee,betrayed.market,available,44.49,44.49,medium,low,8,namesilo,,,26/09/2026 03:08
-77a06c12-9a0e-40b7-a3b0-9e4300898f37,freak.market,available,44.49,44.49,high,low,5,namesilo,,,17/09/2026 06:50
-7dec2685-f94a-4ee1-a25f-b146f64e492f,localized.market,available,44.49,44.49,high,low,9,namesilo,,,24/08/2026 08:45
-f384d729-1faa-41b0-a0ed-4166b2bc7a60,transfixed.market,available,44.49,44.49,medium,low,10,namesilo,,,17/08/2026 22:56
-a7e85634-c977-4307-9c8c-b3b06e3d4ce0,lament.market,available,44.49,44.49,medium,low,6,namesilo,,,22/08/2026 15:25
-2673fb57-1c78-48ec-bfb8-3613fe406c56,greased.market,available,46.98,55.98,medium,low,7,namecheap,,,20/08/2026 19:33
-e69e4c0c-5c69-410a-8b24-b08ad336fa08,enjoy.market,available,,,high,medium,5,,,,
-cad4b2f1-d214-4a64-ac81-c86982ebf334,slipstream.market,available,44.49,44.49,high,low,10,namesilo,,,21/09/2026 16:20
-3b153ec6-607a-4f76-a16d-b21e64e180cc,wedged.market,available,44.49,44.49,medium,low,6,namesilo,,,21/08/2026 21:38
-4da80af5-fade-41d9-825e-5c4e9bf7654a,sister.market,available,46.98,55.98,high,low,6,namecheap,,,26/09/2026 00:18
-aec5ea4d-2a4a-4268-b985-826c1e43c0e7,bro.market,resell,,,high,low,3,"Chengdu West Dimension Digital Technology Co., Ltd.",24/01/2025 21:01,24/01/2027 21:01,26/09/2026 04:38
-a47f9642-8667-420b-b2eb-b01f64bf742f,surfer.market,premium,123.75,,high,low,6,name.com,,,
-c637fe26-12bd-498e-a0d6-0c66eebfc940,grouchy.market,available,44.49,44.49,medium,low,7,namesilo,,,08/08/2026 07:52
-7536b8d5-6752-4e62-ad2b-f3bb45fb9990,laughter.market,available,44.49,44.49,high,low,8,namesilo,,,
-6f2dba34-b27e-41a4-93b0-fe45337f6214,brooke.market,available,44.49,44.49,high,low,6,namesilo,,,25/09/2026 02:29
-d7b510ca-47f2-4756-94d5-765dce99a8e0,daring.market,available,44.49,44.49,high,low,6,namesilo,,,07/08/2026 21:39
-56766856-3ada-4477-a709-03da7601f206,allergist.market,available,44.49,44.49,medium,low,9,namesilo,,,
-dc66cbe1-100a-4756-bbd5-68abc5aa81b6,scorn.market,available,46.98,55.98,medium,low,5,namecheap,,,24/09/2026 17:41
